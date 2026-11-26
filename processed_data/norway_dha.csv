@@ -1,0 +1,2122 @@
+﻿foodName,foodId,foodGroupId,quantity,unit,sourceId,foodGroupName
+"Adzuki beans, uncooked",06.178,12,0.0,g,50,Legumes
+Agave syrup,09.179,7.1,0.0,g,430c,Sugar and honey
+Aioli,08.254,8.3,0.04,g,MI0002,Mayonnaise and mayonnaise salads
+"Ajvar, sweet pepper sauce, home-made",06.790,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Alaska pollock, raw",04.341,4.1.2,0.16,g,216,Lean fish
+"Alfalfa seeds, sprouted, raw",06.114,6.2,0.0,g,20,"Vegetables, raw and prepared"
+Almond based beverage,13.098,9.5,0.0,g,136,Plant-based beverages
+"Almond based beverage, unsweetened, with calcium and vitamins (vit B2, vit B12, vit E, vit D)",13.099,9.5,0.0,g,232,Plant-based beverages
+Almond flour,05.420,5.1,0.0,g,400g,Flour
+"Almond spread, home-made",06.680,14.3,0.0,g,MI0002,Nuts and seed products
+Almonds,06.107,14.2,0.0,g,611a,Nuts
+"Almonds, without peel",06.555,14.2,0.0,g,460g,Nuts
+"Amaranth, uncooked",05.388,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Americano, coffee",13.142,9.1,0.0,g,MI0002,Coffe and tea
+"Anchovies, canned",04.075,4.4,0.92,g,207,Fish products
+"Anchovy fillets, canned",04.086,4.4,0.55,g,MI0002,Fish products
+"Angler fish, fillet, simmered",04.250,4.1.2,0.03,g,MI0002,Lean fish
+"Angler fish, raw",04.211,4.1.2,0.02,g,321d,Lean fish
+Anise seeds,06.195,16,0.0,g,460g,Herbs and spices
+"Appenzeller, cheese",01.344,1.4.7,0.0,g,480b,Hard cheese
+Apple jam,06.804,13.3,0.0,g,MI0002,Fruit and berries products
+"Apple jam, with less sugar",06.802,13.3,0.0,g,MI0002,Fruit and berries products
+"Apple jam, without added sugar",06.803,13.3,0.0,g,MI0002,Fruit and berries products
+Apple juice,06.571,9.2,0.0,g,460g,Juice and smoothies
+"Apple, Granny Smith, Golden Delicious, raw",06.620,13.2,0.0,g,400f,Fruit
+"Apple, Ingrid Marie, raw",06.621,13.2,0.0,g,400f,Fruit
+"Apple, Norwegian, raw",06.529,13.2,0.0,g,400f,Fruit
+"Apple, Pink lady, raw",06.848,13.2,0.0,g,20,Fruit
+"Apple, Rød Aroma, raw",06.622,13.2,0.0,g,400f,Fruit
+"Apple, imported, raw",06.757,13.2,0.0,g,400f,Fruit
+"Apple, unspecified, raw",06.758,13.2,0.0,g,400f,Fruit
+"Apples, canned",06.530,13.3,0.0,g,460g,Fruit and berries products
+"Apples, dried",06.531,13.3,0.0,g,460g,Fruit and berries products
+Apricot jam,06.792,13.3,0.0,g,MI0002,Fruit and berries products
+"Apricots, canned, in syrup",06.522,13.3,0.0,g,460g,Fruit and berries products
+"Apricots, dried",06.523,13.3,0.0,g,233,Fruit and berries products
+"Apricots, raw",06.521,13.2,0.0,g,460g,Fruit
+"Artichoke heart, canned, drained",06.270,6.6,0.0,g,20,Vegetable products
+"Artichoke, globe, raw",06.011,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Asparagus soup, home-made",10.155,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Asparagus, canned, drained",06.014,6.6,0.0,g,460g,Vegetable products
+"Asparagus, raw",06.012,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Aubergine, raw",06.015,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Avocado and chick pea puree, industrially made",06.791,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Avocado soup, cold",10.185,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Avocado, frozen",06.258,6.2,0.0,g,30,"Vegetables, raw and prepared"
+"Avocado, raw",06.524,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Baby carrot, baby corn, French beans, frozen",06.218,6.6,0.0,g,MI0002,Vegetable products
+"Baby corn, canned",06.148,6.6,0.0,g,460g,Vegetable products
+"Baby food, Sinlac special porridge, powder",11.055,11,0.0,g,218,Infant food
+"Baby food, Sinlac special porridge, prepared, Nestlé",11.056,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, beef and potatoes, from 12 months",11.091,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, beef stroganoff with pasta, from 15 months",11.081,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, carrot and potatoes, from 4 months",11.084,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, carrot, from 4 months",11.094,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, casserole with beef, from 12 months",11.098,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, casserole with chicken and couscous, from 12 months",11.099,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, casserole with chicken and vegetables, from 6 months",11.100,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, chicken meat balls and pasta, from 12 months",11.085,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, couscous and beef, from 12 months",11.088,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, couscous and salmon, from 15 months",11.087,11,0.05,g,MI0002,Infant food
+"Baby food, in jars, fish gratin, from 12 months",11.079,11,0.02,g,MI0002,Infant food
+"Baby food, in jars, meat balls and potatoes, from 12 months",11.083,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, meat balls in brown sauce, from 8 months",11.077,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, pasta and vegetables, from 8 months",11.102,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, pasta bolognese, from 6 months",11.101,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, potatoes and broccoli, from 4 months",11.092,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, ragú, from 8 months",11.103,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, spaghetti bolognese, from 15 months",11.086,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, vegetable lasagna, from 12 months",11.078,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, vegetable risotto and turkey, from 12 months",11.093,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, vegetarian casserole, from 12 months",11.090,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, vegetarian, from 6 months",11.080,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, wholemeal lasagna, from 12 months",11.082,11,0.0,g,MI0002,Infant food
+"Baby food, in jars, wholemeal pasta with vegetables, from 12 months",11.089,11,0.0,g,MI0002,Infant food
+"Baby food, oatmeal porridge with banana and mango, from 8 months, powder",11.049,11,0.0,g,218,Infant food
+"Baby food, oatmeal porridge with banana and mango, from 8 months, prepared",11.050,11,0.0,g,MI0002,Infant food
+"Baby food, oatmeal porridge, from 6 months, powder",11.047,11,0.0,g,218,Infant food
+"Baby food, oatmeal porridge, from 6 months, prepared",11.048,11,0.0,g,MI0002,Infant food
+"Baby food, wholemeal porridge with exotic fruits and muesli, from 12 months, powder",11.053,11,0.0,g,218,Infant food
+"Baby food, wholemeal porridge with exotic fruits and muesli, from 12 months, prepared",11.054,11,0.0,g,MI0002,Infant food
+"Bagels, home-made",05.454,5.5.1,0.01,g,MI0002,"Other bread products, home-made"
+"Baguette, coarse, home-made",05.455,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Baguette, coarse, with cheese and ham, from cafe/bakery",05.516,10.9.1,0.0,g,MI0002,Lunch dishes
+"Baguette, coarse, with chicken, from cafe/bakery",05.503,10.9.1,0.0,g,MI0002,Lunch dishes
+"Baguette, coarse, with roast beef, from cafe/bakery ",05.519,10.9.1,0.0,g,MI0002,Lunch dishes
+"Baguette, gluten-free, Semper",05.491,5.6.1,0.0,g,MI0002,Other bread products
+"Baguette, white, with cheese and ham, from cafe/bakery",05.517,10.9.1,0.0,g,MI0002,Lunch dishes
+"Baguette, white, with chicken, from cafe/bakery",05.502,10.9.1,0.0,g,MI0002,Lunch dishes
+"Baguette, white, with roast beef, from cafe/bakery ",05.518,10.9.1,0.0,g,MI0002,Lunch dishes
+"Bakers yeast, active, dry",12.009,10.7,0.0,g,206,Miscellaneous ingredients
+"Bakers yeast, compressed",12.007,10.7,0.0,g,206,Miscellaneous ingredients
+Baking powder,12.018,10.7,0.0,g,50,Miscellaneous ingredients
+Baking soda,10.133,10.7,0.0,g,50,Miscellaneous ingredients
+Balsamic vinegar,10.129,10.11,0.0,g,20,Dinner products
+"Bamboo shoots, canned",06.119,6.6,0.0,g,460g,Vegetable products
+"Banana, dried, banana chips",06.225,13.3,0.0,g,233,Fruit and berries products
+"Banana, raw",06.525,13.2,0.0,g,420i,Fruit
+Barley flour,05.002,5.1,0.0,g,231,Flour
+"Barley, cooked",05.447,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Barley, uncooked",05.001,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Basil, dried",06.151,16,0.0,g,460g,Herbs and spices
+"Basil, fresh",06.111,16,0.0,g,460g,Herbs and spices
+"Bay leaf, dried",06.177,16,0.0,g,460g,Herbs and spices
+"Bean and olive salad, industrially made",06.788,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Beans, black, canned",06.132,12,0.0,g,460g,Legumes
+"Beans, brown, cooked ",06.735,12,0.0,g,MI0002,Legumes
+"Beans, brown, uncooked",06.023,12,0.0,g,460g,Legumes
+"Beans, green, French, frozen",06.741,12,0.0,g,460g,Legumes
+"Beans, green, French, raw",06.098,12,0.0,g,460g,Legumes
+"Beans, in chili sauce, canned",06.846,12,0.0,g,MI0232,Legumes
+"Beans, mung, uncooked",06.089,12,0.0,g,460g,Legumes
+"Beans, red (kidney), canned",06.133,12,0.0,g,460g,Legumes
+"Beans, red (kidney), uncooked",06.090,12,0.0,g,460g,Legumes
+"Beans, red, kidney, cooked",06.252,12,0.0,g,MI0002,Legumes
+"Beans, soya, uncooked",06.083,12,0.0,g,460g,Legumes
+"Beans, white, cooked",06.251,12,0.0,g,MI0002,Legumes
+"Beans, white, in tomato sauce, canned",06.024,12,0.0,g,93,Legumes
+"Beans, white, large, canned",06.134,12,0.0,g,460g,Legumes
+"Beans, white, uncooked",06.084,12,0.0,g,460g,Legumes
+"Beef patties, industrially made",03.137,3.5,0.0,g,228a,Meat products
+"Beef patties, raw",03.136,3.5,0.0,g,MI0002,Meat products
+"Beef, boiled",03.280,3.3,0.0,g,MI0002,Beef and veal
+"Beef, bottom round, silverside, stewing, raw",03.051,3.3,0.0,g,330,Beef and veal
+"Beef, chuck roll, raw",03.057,3.3,0.0,g,330,Beef and veal
+"Beef, clod (shoulder), for roast, without bone, raw",03.221,3.3,0.0,g,330,Beef and veal
+"Beef, inside round, topside, raw",03.056,3.3,0.0,g,330,Beef and veal
+"Beef, meat, raw",03.476,3.3,0.0,g,MI0002,Beef and veal
+"Beef, minced meat, 13 % fat, without salt and water, raw",03.397,3.8,0.0,g,MI0232,Minced meat
+"Beef, minced meat, 14 % fat, with salt and water, raw",03.127,3.8,0.0,g,MI0002,Minced meat
+"Beef, minced meat, 4,5 % fat, raw",03.126,3.8,0.0,g,330,Minced meat
+"Beef, minced meat, fried without fat",03.138,3.8,0.0,g,MI0002,Minced meat
+"Beef, minced meat, max 6 % fat, fried without fat",03.139,3.8,0.0,g,MI0002,Minced meat
+"Beef, rib-eye steak, raw",03.054,3.3,0.0,g,330,Beef and veal
+"Beef, rib-eye steak, roasted without fat",03.268,3.3,0.0,g,MI0002,Beef and veal
+"Beef, roast of nuckle, raw",03.219,3.3,0.0,g,330,Beef and veal
+"Beef, roastbeef, lightly roasted without fat",03.281,3.3,0.0,g,MI0002,Beef and veal
+"Beef, rolled",03.161,3.5,0.0,g,MI0002,Meat products
+"Beef, striploin, raw",03.066,3.3,0.0,g,330,Beef and veal
+"Beef, striploin, roasted without fat",03.271,3.3,0.0,g,MI0002,Beef and veal
+"Beef, tenderloin, raw",03.058,3.3,0.0,g,330,Beef and veal
+"Beef, top sirloin butt, raw",03.064,3.3,0.0,g,330,Beef and veal
+"Beef, trimmed fat, raw",03.345,3.3,0.0,g,319,Beef and veal
+"Beer, 4,7 vol-% alcohol, Pilsner",13.024,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Beer, 5,7 vol-% alcohol, Gulløl",13.023,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Beer, dark, 4,5-4,7 vol-% alcohol, Bayer and Christmas beers",13.051,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Beer, light beer, low carbohydrate",13.050,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Beer, light, 2,5 vol-% alcohol, Lettøl",13.022,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Beer, malt, dark, bock beer 6,5 vol-% alcohol",13.049,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Beer, malt, non-alcoholic",13.025,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Beer, non-alcoholic",13.026,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Beetroot salad, mayonnaise salad",08.129,8.3,0.01,g,117a,Mayonnaise and mayonnaise salads
+"Beetroot, Norwegian, raw",06.057,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Beetroot, cooked",06.221,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Beetroot, pickled",06.077,6.6,0.0,g,460g,Vegetable products
+"Berliner, filled dougnut",05.199,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Berries, mixed, frozen",06.844,13.1,0.0,g,460g,Berries
+"Bidos, home-made",03.464,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Biscuit, sweet, Gjende",05.080,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, Marie",05.079,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, Wafer, filled",05.135,5.8,0.0,g,MI0002,Biscuits and cookies
+"Biscuit, sweet, cookies, with chocolate and nuts",05.153,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, cookies, with chocolate chips and nuts",05.311,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, filled",05.078,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, filled with jam or fruit",05.308,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, for children",05.151,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, gluten-free, Choco chip cookie",05.469,5.8,0.01,g,141,Biscuits and cookies
+"Biscuit, sweet, nougat, Ballerina",05.386,5.8,0.0,g,621,Biscuits and cookies
+"Biscuit, sweet, thin, with oats",05.310,5.8,0.02,g,MI0002,Biscuits and cookies
+"Biscuit, sweet, wholemeal flour, Digestive",05.197,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, with chocolate, for children",05.150,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, with oats, Bixit",05.221,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, with oats, Sibas",05.309,5.8,0.0,g,210,Biscuits and cookies
+"Biscuit, sweet, with oats, chocolate covered",05.149,5.8,0.0,g,210,Biscuits and cookies
+"Black chokeberries, raw",06.764,13.1,0.0,g,460g,Berries
+"Black pudding, with animal blood, roasted",03.170,3.5,0.0,g,MI0002,Meat products
+"Blackberries, raw",06.501,13.1,0.0,g,460g,Berries
+Blackberry jam,06.793,13.3,0.0,g,MI0002,Fruit and berries products
+Blackcurrant jam,06.814,13.3,0.0,g,MI0002,Fruit and berries products
+Blackcurrants mousse,10.207,7.3,0.0,g,MI0002,Desserts and ice cream
+"Blackcurrants, raw",06.513,13.1,0.0,g,460g,Berries
+"Blood, beef, raw",03.117,3.9,0.0,g,319,Offal
+"Blue ling, raw",04.115,4.1.2,0.03,g,321d,Lean fish
+"Blueberries, American, raw",06.667,13.1,0.0,g,410f,Berries
+"Blueberries, frozen",06.847,13.1,0.0,g,30,Berries
+"Blueberries, raw",06.502,13.1,0.0,g,460g,Berries
+Blueberry jam,06.797,13.3,0.0,g,MI0002,Fruit and berries products
+"Blueberry jam, frozen",06.794,13.3,0.0,g,MI0002,Fruit and berries products
+"Blueberry jam, with less sugar",06.795,13.3,0.0,g,MI0002,Fruit and berries products
+"Blueberry jam, without added sugar",06.796,13.3,0.0,g,MI0002,Fruit and berries products
+Blueberry mousse,10.186,7.3,0.0,g,MI0002,Desserts and ice cream
+"Bog blueberries, raw",06.774,13.1,0.0,g,460g,Berries
+"Borek, with minced meat, from cafe/bakery",10.188,10.9.1,0.0,g,MI0002,Lunch dishes
+"Borek, with potato, from cafe/bakery",10.189,10.9.1,0.0,g,MI0002,Lunch dishes
+"Borek, with spinach and feta cheese, from cafe/bakery",10.190,10.9.1,0.0,g,MI0002,Lunch dishes
+"Bouillabaisse, French fish soup",10.157,10.9.4,0.07,g,MI0002,Soups and casseroles
+Bouillon powder,10.100,10.11,0.0,g,400e,Dinner products
+Brazil nuts,06.592,14.2,0.0,g,614,Nuts
+"Bread flour mix, fibre bread, gluten-free, organic, powder, Det Glutenfrie Verksted",05.534,5.1,0.0,g,117c,Flour
+"Bread flour mix, nistebrød, gluten-free, organic, powder, Det Glutenfrie Verksted",05.537,5.1,0.0,g,117c,Flour
+"Bread flour mix, no knead bread, gluten-free, organic, powder, Det Glutenfrie Verksted",05.535,5.1,0.0,g,117c,Flour
+"Bread flour mix, superbrød, gluten-free, organic, powder, Det Glutenfrie Verksted",05.541,5.1,0.0,g,117c,Flour
+"Bread, 1/3 wholemeal flour, skimmed milk, home-made",05.049,5.5.2,0.0,g,MI0002,"White bread, home-made"
+"Bread, 1/3 wholemeal flour, water, home-made",05.048,5.5.2,0.0,g,MI0002,"White bread, home-made"
+"Bread, 100 % wholemeal flour, skimmed milk, home-made",05.041,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, 2/3 wholemeal flour, skimmed milk, home-made",05.045,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, 2/3 wholemeal flour, water, home-made",05.044,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, 25 % wholemeal flour, skimmed milk, home-made",05.051,5.5.2,0.0,g,MI0002,"White bread, home-made"
+"Bread, 25 % wholemeal flour, water, home-made",05.050,5.5.2,0.0,g,MI0002,"White bread, home-made"
+"Bread, 50 % wholemeal flour, skimmed milk, home-made",05.047,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, 50 % wholemeal flour, water, home-made",05.046,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, 75 % wholemeal flour, skimmed milk, home-made",05.043,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, 75 % wholemeal flour, water, home-made",05.042,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, coarse (50-75 %), industrially made",05.342,5.6.4,0.0,g,MI0002,Coarse bread
+"Bread, coarse (50-75 %), kneipp",05.392,5.6.4,0.0,g,60a,Coarse bread
+"Bread, coarse, gluten-free, Fria Grova",05.468,5.6.4,0.0,g,141,Coarse bread
+"Bread, extra coarse (75-100 %), industrially made",05.343,5.6.2,0.0,g,MI0002,Extra coarse bread
+"Bread, gluten-free, Semper formbrød",05.427,5.6.3,0.0,g,20,White bread
+"Bread, gluten-free, coarse, with low-fat milk, home-made",05.265,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, gluten-free, coarse, with soy based beverage, home-made",05.354,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, gluten-free, coarse, with water, home-made",05.263,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Bread, gluten-free, white, with low-fat milk, home-made",05.264,5.5.2,0.0,g,MI0002,"White bread, home-made"
+"Bread, gluten-free, white, with water, home-made",05.262,5.5.2,0.0,g,MI0002,"White bread, home-made"
+"Bread, rye, coarse (50-75 %), industrially made",05.273,5.6.4,0.0,g,MI0002,Coarse bread
+"Bread, rye, light (0-25 %), industrially made",05.272,5.6.3,0.0,g,136,White bread
+"Bread, semi-coarse (25-50 %), industrially made",05.341,5.6.5,0.0,g,MI0002,Semi-coarse bread
+"Bread, semi-coarse (25-50 %), kneipp",05.360,5.6.5,0.0,g,50,Semi-coarse bread
+"Bread, white (0-25 %), industrially made",05.060,5.6.3,0.0,g,MI0002,White bread
+"Bread, white (0-25 %), spirally shaped, industrially made",05.283,5.6.3,0.0,g,MI0002,White bread
+"Bread, white (0-25 %), squared-shaped, industrially made",05.284,5.6.3,0.0,g,MI0002,White bread
+"Bread, white (0-25%), bake-off, ready-to-eat",05.186,5.6.3,0.0,g,MI0002,White bread
+"Bread, white, with skimmed milk, home-made",05.053,5.5.2,0.0,g,MI0002,"White bread, home-made"
+"Bread, white, with water, home-made",05.052,5.5.2,0.0,g,MI0002,"White bread, home-made"
+"Bread, wholemeal flour, wheat and rye, home-made",05.129,5.5.3,0.0,g,MI0002,"Coarse bread, home-made"
+"Breakfast cereal, Nestlé Cheerios",05.394,5.3,0.0,g,60a,Breakfast cereals
+"Breakfast cereal, Nestlé Nesquick",05.395,5.3,0.0,g,622,Breakfast cereals
+"Breakfast cereal, buckwheat and dark chocolate, gluten-free, organic, Det Glutenfrie Verksted",05.543,5.3,0.0,g,117c,Breakfast cereals
+"Breakfast cereal, chocolate flavoured",05.158,5.3,0.0,g,MI0002,Breakfast cereals
+"Breakfast cereal, chocolate flavoured, Coco Pops Crunchers",05.375,5.3,0.0,g,MI0002,Breakfast cereals
+"Breakfast cereal, oats, fruit, vegetable oil, Crüsli",05.136,5.3,0.0,g,460g,Breakfast cereals
+"Breakfast cereal, wheat and rice, Special K",05.240,5.3,0.0,g,MI0002,Breakfast cereals
+"Breakfast cereal, wheat, Weetabix",05.244,5.3,0.0,g,460g,Breakfast cereals
+"Breakfast cereal, wheat, barley, rye, oat, no sugar, 4-korn",05.034,5.3,0.0,g,MI0002,Breakfast cereals
+"Breakfast cereal, with berries, Blåbærmüsli",05.377,5.3,0.0,g,MI0002,Breakfast cereals
+"Breast milk replacement from 6 months, powder",11.043,11,0.13,g,126,Infant food
+"Breast milk replacement from 6 months, prepared",11.041,11,0.02,g,30,Infant food
+"Breast milk replacement from 6 months, ready to drink",11.096,11,0.02,g,30,Infant food
+"Breast milk replacement from birth, powder",11.042,11,0.1,g,126,Infant food
+"Breast milk replacement from birth, prepared",11.040,11,0.01,g,30,Infant food
+"Breast milk replacement from birth, ready to drink",11.095,11,0.01,g,30,Infant food
+Brioche,05.501,5.5.1,0.03,g,MI0002,"Other bread products, home-made"
+"Broad beans, uncooked",06.180,12,0.0,g,400f,Legumes
+"Broccoli soup, home-made",10.158,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Broccoli sprouts, raw",06.272,6.2,0.0,g,20,"Vegetables, raw and prepared"
+"Broccoli, Norwegian, raw",06.018,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Broccoli, carrot, baby corn, frozen",06.216,6.6,0.0,g,MI0002,Vegetable products
+"Broccoli, cooked",06.725,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Broccoli, imported, frozen",06.740,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Broccoli, imported, raw",06.747,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Broccoli, unspecified, raw",06.748,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Brownies, with icing, industrially made",05.317,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Bruschetta, with tomato and basil",05.504,10.9.1,0.0,g,MI0002,Lunch dishes
+"Brussel sprouts, Norwegian, raw",06.055,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Brussel sprouts, frozen",06.056,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Brussels sprouts, cooked",06.222,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+Buckwheat flakes,05.529,5.2,0.0,g,117c,"Grain, rice and pasta"
+Buckwheat flour,05.132,5.1,0.0,g,611a,Flour
+"Buckwheat, grain",05.231,5.2,0.0,g,611a,"Grain, rice and pasta"
+"Bulgur, cooked",05.285,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Bulgur, uncooked",05.233,5.2,0.0,g,611a,"Grain, rice and pasta"
+"Burger, double, with bread, cheese, lettuce, dressing etc, fast food restaurant",03.310,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Burger, extra large, with bread, cheese etc, fast food restaurant",03.311,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Burger, single, with bread, dressing etc, fast food restaurant",03.308,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Burger, vegetarian, with beans, fried in fat",06.705,10.6,0.02,g,MI0002,Vegetarian products and dishes
+Burrata cheese,01.345,1.4.4,0.0,g,550a,Other cheese
+Butter,08.005,8.1,0.0,g,114a,Margarine and butter
+"Butter chicken, industrially made",03.511,3.7,0.0,g,420k,Poultry or meat dishes
+"Butter sauce, with cream",08.258,10.11,0.0,g,MI0002,Dinner products
+"Butter, extra salt, Kviteseid butter",08.247,8.1,0.0,g,114a,Margarine and butter
+"Butter, unsalted",08.237,8.1,0.0,g,114a,Margarine and butter
+"Cabbage, Chinese, Norwegian, raw",06.040,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Cabbage, pak-choi, bok choy, raw",06.175,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Cabbage, red, cooked",06.224,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Cabbage, red, in vinegar",06.268,6.6,0.0,g,MI0002,Vegetable products
+"Cabbage, red, raw",06.093,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Cabbage, spring green, raw",06.067,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Cabbage, white, Norwegian, raw",06.037,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Cabbage, white, cooked",06.720,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+Caesar dressing,08.257,8.3,0.2,g,MI0002,Mayonnaise and mayonnaise salads
+Caesar salad,06.200,10.9.3,0.01,g,MI0002,Salads
+"Caffe Latte, single, with lactose free milk",13.141,9.1,0.0,g,MI0002,Coffe and tea
+"Caffe Latte, single, with oat based beverage",13.127,9.1,0.0,g,MI0002,Coffe and tea
+"Caffe Latte, single, with oat based beverage (with iodine)",13.162,9.1,0.0,g,MI0002,Coffe and tea
+"Caffe Latte, single, with semi-skimmed milk",13.041,9.1,0.0,g,MI0002,Coffe and tea
+"Caffe Latte, single, with soy based beverage",13.128,9.1,0.0,g,MI0002,Coffe and tea
+"Caffe Latte, single, with whole milk",13.040,9.1,0.0,g,MI0002,Coffe and tea
+Caffe mocha,13.081,9.1,0.0,g,MI0002,Coffe and tea
+Café au lait,13.079,9.1,0.0,g,MI0002,Coffe and tea
+"Café au lait, with lactose free milk",13.132,9.1,0.0,g,MI0002,Coffe and tea
+"Café au lait, with oat based beverage",13.133,9.1,0.0,g,MI0002,Coffe and tea
+"Café au lait, with oat based beverage (with iodine)",13.160,9.1,0.0,g,MI0002,Coffe and tea
+"Café au lait, with soy based beverage",13.134,9.1,0.0,g,MI0002,Coffe and tea
+"Cake base, gluten-free, prepared from powder, Toro",05.352,5.10,0.05,g,MI0002,Cakes and sweet bakery
+"Cake flour mix, chocolate cake, gluten-free, organic, powder, Det Glutenfrie Verksted",05.539,5.1,0.0,g,117c,Flour
+"Cake flour mix, gluten-free, powder, Toro",05.351,5.1,0.0,g,136,Flour
+"Cake, Mor Monsen",05.500,5.10,0.03,g,MI0002,Cakes and sweet bakery
+"Cake, Napoleon, puff pastry filled with custard, icing on top",05.102,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, Oreo, prepared from powder with cream and butter",05.345,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Cake, Sarah Bernhard",05.412,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, apple",05.436,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, carrot",05.210,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, carrot, with icing, industrially made",05.321,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, cheese cake, with bisquit bottom",05.205,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Cake, chocolate, no icing",05.201,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, chocolate, with chocolate frosting, gluten free",05.484,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, chocolate, with icing",05.108,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, chocolate, with icing, industrially made",05.324,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, chocolate, wth cheese frosting, gluten free",05.486,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, macaroon, Norwegian Prince cake, with apples",05.093,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, macaroon, Norwegian Prince cake, with minced almonds",05.094,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, pound, Danish",05.091,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, pound, plain, fat reduced",05.088,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Cake, pound, plain, marbled",05.090,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, pound, plain, no icing, industrially made",05.320,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, pound, plain, with icing, industrially made",05.319,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, soft, with minced nuts",05.208,5.10,0.03,g,MI0002,Cakes and sweet bakery
+"Cake, soft, with minced nuts, whipped cream and chocolate, frozen",05.435,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, sponge cake, with custard, jelly and berries",05.113,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, sponge, layered, filled with whipped cream and jam",05.112,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, sponge, layered, filled with whipped cream and jam, marzipan covered",05.200,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, sponge, plain",05.111,5.10,0.05,g,MI0002,Cakes and sweet bakery
+"Cake, syrup",05.107,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Cake, with banana",05.448,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, with chocolate icing and salted peanuts, Snickerskake",05.416,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, with custard made of egg yolk and cream, Suksessterte",05.417,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Cake, with meringue, sponge cake and vanilla cream, Kvæfjordkake",05.441,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, with spices",05.449,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Cake, yeast, sweet",05.096,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Cake, yeast, with dried fruit, Norwegian Christmas cake",05.097,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Calzone, with cheese and ham, from cafe/bakery",10.193,10.9.1,0.0,g,MI0002,Lunch dishes
+"Calzone, with chicken and pesto, from cafe/bakery",10.192,10.9.1,0.0,g,MI0002,Lunch dishes
+"Calzone, with meat filling, from cafe/bakery",10.191,10.9.1,0.0,g,MI0002,Lunch dishes
+"Cape gooseberries, raw",06.766,13.1,0.0,g,460g,Berries
+"Capers, canned",06.129,6.6,0.0,g,460g,Vegetable products
+"Cappucino, single, with lactose free milk",13.135,9.1,0.0,g,MI0002,Coffe and tea
+"Cappucino, single, with oat based beverage",13.136,9.1,0.0,g,MI0002,Coffe and tea
+"Cappucino, single, with oat based beverage (with iodine)",13.159,9.1,0.0,g,MI0002,Coffe and tea
+"Cappucino, single, with semi-skimmed milk",13.039,9.1,0.0,g,MI0002,Coffe and tea
+"Cappucino, single, with soy based beverage",13.137,9.1,0.0,g,MI0002,Coffe and tea
+"Cappucino, single, with whole milk",13.038,9.1,0.0,g,MI0002,Coffe and tea
+"Carambola, raw",06.768,13.2,0.0,g,460h,Fruit
+Caramel,09.013,7.2,0.0,g,460g,Chocolate and sweets
+"Caramels, chocolate covered",09.125,7.2,0.0,g,215,Chocolate and sweets
+Caraway seeds,06.159,16,0.0,g,460g,Herbs and spices
+"Cardamom, ground",06.157,16,0.0,g,460g,Herbs and spices
+Carrot juice,13.148,9.2,0.0,g,20,Juice and smoothies
+"Carrot soup, home-made",10.161,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Carrot, Norwegian, raw",06.036,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Carrot, cauliflower, green beans, peas, frozen",06.075,6.6,0.0,g,MI0002,Vegetable products
+"Carrot, cauliflower, peas, frozen",06.072,6.6,0.0,g,MI0002,Vegetable products
+"Carrot, cooked",06.718,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Carrot, imported, frozen",06.743,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Carrot, peas, sweet corn, frozen",06.074,6.6,0.0,g,MI0002,Vegetable products
+"Cashew nut spread, home-made",06.681,14.3,0.0,g,MI0002,Nuts and seed products
+Cashew nuts,06.582,14.2,0.0,g,460g,Nuts
+"Cashew nuts, salted",06.618,14.2,0.0,g,221a,Nuts
+"Cassava, raw",06.122,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Casserole base, Oriental style, no meat, prepared",10.008,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Casserole base, jegergryte, no meat, prepared",10.028,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Casserole base, stroganoff, no meat, prepared",10.029,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Casserole, with beans, no meat",06.708,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Casserole, with beef, tomato, sour cream",03.256,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Casserole, with chicken, tomato, onion and mushroom",03.302,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Casserole, with cod and tomato",04.296,4.2,0.12,g,MI0002,Fish and shellfishes dishes
+"Casserole, with moose meat, potatoes and vegetables",03.514,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Casserole, with saithe, onion and sweet pepper sauce",04.295,4.2,0.18,g,MI0002,Fish and shellfishes dishes
+"Casserole, with vegetables and potatoes",06.707,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Catfish, fillet, rolled in flour, fried in fat",04.247,4.1.2,0.03,g,MI0002,Lean fish
+"Catfish, fillet, simmered",04.246,4.1.2,0.04,g,MI0002,Lean fish
+"Catfish, raw",04.037,4.1.2,0.03,g,609,Lean fish
+"Cauliflower soup, home-made",10.150,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Cauliflower, Norwegian, raw",06.016,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Cauliflower, broccoli, carrot, frozen",06.215,6.6,0.0,g,MI0002,Vegetable products
+"Cauliflower, broccoli, carrot, sugar-snap peas, frozen",06.219,6.6,0.0,g,MI0002,Vegetable products
+"Cauliflower, broccoli, frozen",06.214,6.6,0.0,g,MI0002,Vegetable products
+"Cauliflower, carrot, brussel sprouts, frozen",06.220,6.6,0.0,g,MI0002,Vegetable products
+"Cauliflower, cooked",06.719,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Cauliflower, imported, frozen",06.746,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Cauliflower, imported, raw",06.852,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Cauliflower, raw",06.853,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Caviar spread, cod roe",04.087,4.4,1.2,g,460g,Fish products
+"Caviar, capelin roe",04.089,4.4,0.0,g,116a,Fish products
+"Caviar, cod roe with mayonnaise",04.307,4.4,0.16,g,MI0002,Fish products
+"Caviar, polar",04.373,4.4,1.0,g,117a,Fish products
+Celeriac puree,06.237,6.6,0.0,g,MI0002,Vegetable products
+"Celeriac root, raw",06.060,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Celeriac, cooked",06.236,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Celery stalk or stem, Norwegian, raw",06.068,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Celery stalk or stem, imported, raw",06.279,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Celery stalk or stem, raw",06.280,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Ceviche, with cod, mango and avocado",04.386,4.2,0.05,g,MI0002,Fish and shellfishes dishes
+"Ceviche, with salmon, mango and avocado",04.385,4.2,0.21,g,MI0002,Fish and shellfishes dishes
+"Chapatis, made with wholemeal flour",05.182,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Char, fried without fat",04.234,4.1.1,0.63,g,MI0002,Fatty fish
+"Char, raw",04.117,4.1.1,0.67,g,609,Fatty fish
+"Char, rolled in flour, fried in fat",04.235,4.1.1,0.57,g,MI0002,Fatty fish
+"Chayote, raw",06.182,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Cheddar sauce,08.256,10.11,0.0,g,MI0002,Dinner products
+"Cheese burger, single, with bread, cheese, dressing etc, fast food restaurant",03.309,3.7,0.0,g,MI0002,Poultry or meat dishes
+Cheese doodles,12.016,10.5,0.0,g,621,Snacks
+"Cheese spread, 10 % fat",01.204,1.4.9,0.0,g,109c,Processed cheese
+"Cheese spread, 3 % fat",01.202,1.4.9,0.0,g,109c,Processed cheese
+"Cheese spread, 7 % fat",01.064,1.4.9,0.0,g,109c,Processed cheese
+"Cheese spread, bacon flavour",01.063,1.4.9,0.0,g,114a,Processed cheese
+"Cheese, Halloumi",01.270,1.4.4,0.0,g,400g,Other cheese
+"Cheese, Manchego",01.300,1.4.4,0.0,g,30,Other cheese
+"Cheese, Mascarpone",01.263,1.4.6,0.0,g,109c,Fresh cheese
+"Cheese, Mozarella, semi-hard, Norwegian",01.066,1.4.4,0.0,g,114a,Other cheese
+"Cheese, Mozzarella, in brine, imported",01.297,1.4.4,0.0,g,400i,Other cheese
+"Cheese, Raclette",01.267,1.4.4,0.0,g,109c,Other cheese
+"Cheese, Ricotta",01.266,1.4.6,0.0,g,460h,Fresh cheese
+"Cheese, Stilton, blue",01.265,1.4.8,0.0,g,109c,Mould cheese
+"Cheese, blue mold, Gorgonzola",01.261,1.4.8,0.0,g,109c,Mould cheese
+"Cheese, blue mold, Normanna",01.037,1.4.8,0.0,g,114a,Mould cheese
+"Cheese, blue mold, Norzola",01.042,1.4.8,0.0,g,114a,Mould cheese
+"Cheese, blue mold, Roquefort",01.264,1.4.8,0.0,g,109c,Mould cheese
+"Cheese, blue mold, Selbu Blå",01.252,1.4.8,0.0,g,114a,Mould cheese
+"Cheese, blue mold, organic, Selbu Blå",01.287,1.4.8,0.0,g,114a,Mould cheese
+"Cheese, fermented skimmed milk, granular, caraway spiced",01.341,1.4.4,0.0,g,114a,Other cheese
+"Cheese, fermented skimmed milk, granular, caraway spiced, Pultost, Hedemark",01.250,1.4.4,0.0,g,114a,Other cheese
+"Cheese, fermented skimmed milk, granular, caraway spiced, Pultost, Løiten",01.047,1.4.4,0.0,g,114a,Other cheese
+"Cheese, goat milk, Feta",01.188,1.4.4,0.0,g,109c,Other cheese
+"Cheese, gouda",01.302,1.4.7,0.0,g,450d,Hard cheese
+"Cheese, grated",01.219,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, gruyere",01.262,1.4.7,0.0,g,460g,Hard cheese
+"Cheese, hard, Cheddar",01.027,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, Edam",01.030,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, Grana padano",01.336,1.4.4,0.0,g,400m,Other cheese
+"Cheese, hard, Jarlsberg",01.035,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, Norvegia",01.039,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, Parmesan, Parmigiano Reggiano",01.200,1.4.4,0.0,g,400m,Other cheese
+"Cheese, hard, Sveitser",01.050,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, caraway spiced, Nøkkelost",01.043,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, caraway spiced, low-fat, Nøkkelost",01.142,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, low-fat, Jarlsberg",01.071,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, low-fat, Norvegia",01.040,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, matured, Norvegia",01.245,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, organic, Norvegia",01.246,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, hard, rich, Norvegia",01.247,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, paneer",01.301,1.4.4,0.0,g,20,Other cheese
+"Cheese, processed, semi-hard, tomato flavour, Taffelost",01.161,1.4.9,0.0,g,114a,Processed cheese
+"Cheese, ripened, Brie",01.136,1.4.8,0.0,g,400m,Mould cheese
+"Cheese, ripened, Camembert",01.025,1.4.8,0.0,g,400m,Mould cheese
+"Cheese, semi-hard, Crème Chérie",01.062,1.4.6,0.0,g,114a,Fresh cheese
+"Cheese, semi-hard, Gräddost",01.038,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, semi-hard, Port Salut",01.046,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, semi-hard, Ridderost",01.048,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, semi-hard, low-fat, Mozzarella, Norwegian",01.138,1.4.4,0.0,g,114a,Other cheese
+"Cheese, skimmed milk, matured, sharp, Gammelost",01.032,1.4.4,0.0,g,114a,Other cheese
+"Cheese, whey spread",01.059,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, whey spread, lean",01.060,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, whey spread, with iron",01.220,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, whey, cow and goat milk",01.055,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, whey, cow and goat milk, low-fat",01.072,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, whey, cow milk",01.053,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, whey, cow milk, low-fat",01.054,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, whey, goat milk",01.052,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, whey, unspecified",01.186,1.4.5,0.0,g,114a,Whey cheese
+"Cheese, white, unspecified",01.185,1.4.7,0.0,g,114a,Hard cheese
+"Cheese, Østavind",01.282,1.4.7,0.0,g,114a,Hard cheese
+"Cheeze doodles, with lentils",10.215,10.5,0.0,g,621,Snacks
+"Cherimoya, raw",06.595,13.2,0.0,g,460g,Fruit
+"Cherries, raw",06.506,13.1,0.0,g,460g,Berries
+"Cherries, sweet, raw",06.507,13.1,0.0,g,460g,Berries
+Cherry jam,06.809,13.3,0.0,g,MI0002,Fruit and berries products
+"Chestnuts, roasted",06.039,14.2,0.0,g,460g,Nuts
+"Chewing gum, with sugar",09.129,7.2,0.0,g,50,Chocolate and sweets
+"Chia seeds, dried",05.380,14.1,0.0,g,611a,Seeds
+"Chick peas, boiled",06.213,12,0.0,g,MI0002,Legumes
+"Chicken burger, breaded, fried, with bread, lettuce, dressing, fast food restaurant",03.312,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Chicken fillet, fried in fat",03.242,3.1,0.02,g,MI0002,Poultry
+"Chicken fillet, fried without fat",03.481,3.1,0.02,g,MI0002,Poultry
+"Chicken nuggets, deep fried, fast food restaurant",03.307,3.5,0.01,g,MI0002,Meat products
+"Chicken nuggets, deep fried, industrially made",03.320,3.5,0.0,g,MI0002,Meat products
+"Chicken, drumstick, with skin, raw",03.331,3.1,0.01,g,140,Poultry
+"Chicken, drumstick, with skin, roasted",03.395,3.1,0.01,g,MI0002,Poultry
+"Chicken, drumstick, without skin, raw",03.334,3.1,0.01,g,224b,Poultry
+"Chicken, drumstick, without skin, roasted",03.396,3.1,0.01,g,MI0002,Poultry
+"Chicken, fillet, simmered",03.418,3.1,0.02,g,MI0002,Poultry
+"Chicken, fillet, without skin, raw",03.205,3.1,0.02,g,224b,Poultry
+"Chicken, leg (thigh and drumstick), with skin, raw",03.225,3.1,0.01,g,140,Poultry
+"Chicken, leg (thigh and drumstick), with skin, roasted",03.244,3.1,0.01,g,MI0002,Poultry
+"Chicken, leg (thigh and drumstick), without skin, raw",03.332,3.1,0.01,g,224b,Poultry
+"Chicken, leg (thigh and drumstick), without skin, roasted",03.392,3.1,0.01,g,MI0002,Poultry
+"Chicken, minced meat, 8 % fat, raw",03.366,3.8,0.02,g,224b,Minced meat
+"Chicken, minced meat, fried without fat",03.478,3.8,0.02,g,MI0002,Minced meat
+"Chicken, skin, raw",03.390,3.1,0.0,g,224b,Poultry
+"Chicken, thigh (leg without drumstick), with skin, raw",03.330,3.1,0.0,g,140,Poultry
+"Chicken, thigh (leg without drumstick), with skin, roasted",03.393,3.1,0.0,g,MI0002,Poultry
+"Chicken, thigh (leg without drumstick), without skin, raw",03.333,3.1,0.01,g,224b,Poultry
+"Chicken, thigh (leg without drumstick), without skin, roasted",03.394,3.1,0.01,g,MI0002,Poultry
+"Chicken, with skin, landkylling, roasted",03.391,3.1,0.0,g,MI0002,Poultry
+"Chicken, with skin, raw",03.006,3.1,0.01,g,140,Poultry
+"Chicken, with skin, raw, landkylling",03.373,3.1,0.0,g,60a,Poultry
+"Chicken, with skin, roasted",03.007,3.1,0.01,g,MI0002,Poultry
+"Chicken, without skin, raw",03.292,3.1,0.01,g,224b,Poultry
+"Chicken, without skin, roasted",03.246,3.1,0.01,g,MI0002,Poultry
+"Chicory, endive, raw",06.032,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Chicory, raddichio, raw",06.123,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Chicory, raw",06.061,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Chili con carne,03.462,3.7,0.0,g,MI0002,Poultry or meat dishes
+Chili powder,06.152,16,0.0,g,460g,Herbs and spices
+"Chili sauce, sweet",10.177,10.11,0.0,g,400j,Dinner products
+Chilli nuts,13.096,10.5,0.0,g,221a,Snacks
+"Chives, raw",06.034,16,0.0,g,460g,Herbs and spices
+"Chocolate bar, jelly and marzipan covered with chocolate, Troika",09.117,7.2,0.02,g,207,Chocolate and sweets
+"Chocolate bar, milk",09.017,7.2,0.06,g,207,Chocolate and sweets
+"Chocolate bar, milk, aerated",09.116,7.2,0.03,g,207,Chocolate and sweets
+"Chocolate butter cream, with butter",05.293,7.3,0.0,g,MI0002,Desserts and ice cream
+"Chocolate butter cream, with hard margarine",05.294,7.3,0.02,g,MI0002,Desserts and ice cream
+"Chocolate cake, high fat content (coconut fat)",05.087,5.10,0.02,g,MI0002,Cakes and sweet bakery
+Chocolate fondant,10.143,7.3,0.04,g,MI0002,Desserts and ice cream
+Chocolate frosting,05.292,7.3,0.01,g,MI0002,Desserts and ice cream
+Chocolate mousse,10.144,7.3,0.04,g,MI0002,Desserts and ice cream
+Chocolate puffed rice balls,09.169,7.2,0.02,g,MI0002,Chocolate and sweets
+"Chocolate spread, Sjokade",09.010,7.4,0.0,g,MI0002,Sweet spreads
+Chocolate truffles,09.180,7.2,0.0,g,MI0002,Chocolate and sweets
+Chocolate wafer bar,09.102,7.2,0.04,g,MI0002,Chocolate and sweets
+"Chocolate, Mars",09.157,7.2,0.0,g,60a,Chocolate and sweets
+"Chocolate, Milky Way",09.158,7.2,0.0,g,60a,Chocolate and sweets
+"Chocolate, Snickers",09.159,7.2,0.0,g,60a,Chocolate and sweets
+"Chocolate, cooking, plain, minimum 35 % cocoa",09.019,7.2,0.03,g,207,Chocolate and sweets
+"Chocolate, cooking, with milk, minimum 25 % cocoa",09.104,7.2,0.03,g,207,Chocolate and sweets
+"Chocolate, dark, 70 % cocoa",09.133,7.2,0.0,g,621,Chocolate and sweets
+"Chocolate, dark, 85 % cocoa",09.176,7.2,0.0,g,621,Chocolate and sweets
+"Chocolate, filled",09.103,7.2,0.02,g,207,Chocolate and sweets
+"Chocolate, filled with coconut, Bounty",09.156,7.2,0.0,g,400f,Chocolate and sweets
+"Chocolate, filled with mint, After Eight",09.155,7.2,0.0,g,450d,Chocolate and sweets
+"Chocolate, filled with toffee",09.177,7.2,0.0,g,621,Chocolate and sweets
+"Chocolate, milk, with nuts",09.018,7.2,0.05,g,207,Chocolate and sweets
+"Chocolate, milk, with peanuts",09.178,7.2,0.0,g,30,Chocolate and sweets
+"Chocolate, white",09.134,7.2,0.0,g,621,Chocolate and sweets
+"Chocolate, with almond butter, Daim",09.154,7.2,0.0,g,400f,Chocolate and sweets
+"Chocolate, with nougat, Toblerone",09.183,7.2,0.0,g,430c,Chocolate and sweets
+"Ciabatta, gluten-free, Schär",05.472,5.6.1,0.0,g,141,Other bread products
+"Cider, apple, 0,6 vol-% alcohol",13.153,9.3,0.0,g,20,"Beer, wine, spirit etc"
+"Cider, pear, 0,6 vol-% alcohol",13.154,9.3,0.0,g,20,"Beer, wine, spirit etc"
+"Cider, pear, 0,6 vol-% alcohol, artificially sweetened",13.152,9.3,0.0,g,20,"Beer, wine, spirit etc"
+"Cider, sweet, 4,5 vol-% alcohol",13.063,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Cinnamon roll, home-made",05.187,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Cinnamon roll, sugar coated, industrially made",05.314,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Cinnamon roll, with custard and icing, industrially made",05.315,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Cinnamon, ground",06.156,16,0.0,g,460g,Herbs and spices
+"Clementine, raw",06.526,13.2,0.0,g,460g,Fruit
+"Cloudberries, raw",06.508,13.1,0.0,g,400f,Berries
+Cloudberry jam,06.810,13.3,0.0,g,MI0002,Fruit and berries products
+"Cloudberry jam, frozen, ",06.509,13.3,0.0,g,MI0002,Fruit and berries products
+"Cloves, ground",06.162,16,0.0,g,460g,Herbs and spices
+Cocoa beans,09.175,7.2,0.0,g,621,Chocolate and sweets
+Cocoa butter,08.263,8.5,0.0,g,450d,Other fats
+Cocoa powder,09.011,10.7,0.0,g,460g,Miscellaneous ingredients
+"Cocoa, instant powder, prepared",10.021,9.1,0.0,g,MI0002,Coffe and tea
+"Cocoa, instant powder, without milk",09.012,10.7,0.0,g,400e,Miscellaneous ingredients
+"Cocoa, prepared from instant powder and low-fat milk",01.197,1.1,0.0,g,MI0002,Milk
+"Cocoa, prepared from instant powder and milk",01.340,1.1,0.0,g,MI0002,Milk
+"Cocoa, prepared from instant powder and whole milk",01.339,1.1,0.0,g,MI0002,Milk
+"Cocoa, prepared with low-fat milk",01.196,1.1,0.0,g,MI0002,Milk
+"Coconut based beverage, with calsium og vitamins (vit B12, vit D)",13.097,9.5,0.0,g,232,Plant-based beverages
+Coconut flour,05.445,5.1,0.0,g,611a,Flour
+Coconut macaroon,05.098,5.8,0.0,g,MI0002,Biscuits and cookies
+"Coconut milk, canned",06.701,10.7,0.0,g,460g,Miscellaneous ingredients
+"Coconut milk, light, canned",06.780,10.7,0.0,g,460g,Miscellaneous ingredients
+"Coconut, desiccated, not sweetened",06.554,13.3,0.0,g,614,Fruit and berries products
+"Coconut, raw",06.769,13.2,0.0,g,460g,Fruit
+"Cod liver oil, Biopharma",08.264,10.10,10.39,g,233,Food supplements
+"Cod liver oil, Møllers tran",08.008,10.10,11.18,g,233,Food supplements
+"Cod liver oil, capsules, Møllers Dobbel",08.030,10.10,14.26,g,108b,Food supplements
+"Cod liver, raw",04.051,4.1.5,6.18,g,321d,Fish offal
+"Cod roe, boiled",04.312,4.1.5,0.63,g,MI0002,Fish offal
+"Cod roe, canned, fried in fat",04.318,4.1.5,0.3,g,MI0002,Fish offal
+"Cod roe, compressed, canned",04.100,4.1.5,0.33,g,460g,Fish offal
+"Cod roe, raw",04.052,4.1.5,0.65,g,420e,Fish offal
+"Cod, breaded, industrially made",04.348,4.4,0.11,g,223a,Fish products
+"Cod, breaded, pre-fried, filled, roasted",04.281,4.1.2,0.08,g,MI0002,Lean fish
+"Cod, breaded, pre-fried, fried in fat",04.284,4.1.2,0.13,g,MI0002,Lean fish
+"Cod, breaded, pre-fried, roasted",04.306,4.1.2,0.14,g,MI0002,Lean fish
+"Cod, cured, simmered",04.252,4.1.2,0.25,g,MI0002,Lean fish
+"Cod, farmed, raw",04.326,4.1.2,0.09,g,216,Lean fish
+"Cod, filled, breaded, pre-fried, fried in fat",04.282,4.1.2,0.08,g,MI0002,Lean fish
+"Cod, filled, pre-fried, frozen",04.203,4.1.2,0.08,g,MI0002,Lean fish
+"Cod, fillet, pan-fried",04.346,4.1.2,0.21,g,MI0002,Lean fish
+"Cod, fillet, roasted",04.345,4.1.2,0.2,g,MI0002,Lean fish
+"Cod, fillet, rolled in breadcrumbs, fried in fat",04.251,4.1.2,0.13,g,MI0002,Lean fish
+"Cod, fillet, rolled in breadcrumbs, raw",04.070,4.1.2,0.13,g,MI0002,Lean fish
+"Cod, fillet, rolled in flour, fried in fat",04.249,4.1.2,0.21,g,MI0002,Lean fish
+"Cod, fillet, simmered",04.347,4.1.2,0.26,g,MI0002,Lean fish
+"Cod, lightly salted, raw",04.042,4.1.2,0.17,g,MI0002,Lean fish
+"Cod, slices, raw",04.039,4.1.2,0.17,g,321f,Lean fish
+"Cod, slices, simmered",04.248,4.1.2,0.26,g,MI0002,Lean fish
+"Cod, split, salted and dried",04.253,4.1.2,0.31,g,MI0002,Lean fish
+"Cod, unspecified, raw",04.327,4.1.2,0.16,g,701G,Lean fish
+"Cod, wild, raw",04.038,4.1.2,0.17,g,321f,Lean fish
+"Coffee whitener, powder, Coffeemate",01.176,10.6,0.0,g,136,Vegetarian products and dishes
+"Coffee whitener, vegetable fat",01.177,10.6,0.0,g,460g,Vegetarian products and dishes
+"Coffee, infusion",13.009,9.1,0.0,g,136,Coffe and tea
+"Cold porridge, with berries, from cafe/bakery",10.200,5.12,0.0,g,MI0002,Porridge
+Coleslaw,06.230,8.3,0.0,g,MI0002,Mayonnaise and mayonnaise salads
+"Compote, made from fruits and berries",06.540,13.3,0.0,g,MI0002,Fruit and berries products
+"Conger eel, raw",04.120,4.1.1,0.58,g,216,Fatty fish
+"Cookie, Christmas, Berlinerkrans",05.460,5.8,0.03,g,MI0002,Biscuits and cookies
+"Cookie, Christmas, Goro",05.461,5.8,0.01,g,MI0002,Biscuits and cookies
+"Cookie, Christmas, Serinakake",05.106,5.8,0.01,g,MI0002,Biscuits and cookies
+"Cookie, Christmas, brune pinner",05.434,5.8,0.01,g,MI0002,Biscuits and cookies
+"Cookie, Christmas, hvite kakemenn",05.438,5.8,0.0,g,MI0002,Biscuits and cookies
+"Cookie, Christmas, krumkaker",05.440,5.8,0.03,g,MI0002,Biscuits and cookies
+"Cookie, Christmas, sandkake",05.463,5.8,0.01,g,MI0002,Biscuits and cookies
+"Cookie, Christmas, sirupssnipper",05.464,5.8,0.0,g,MI0002,Biscuits and cookies
+"Cookie, macaroon with oats",05.140,5.8,0.03,g,MI0002,Biscuits and cookies
+"Cookie, sweet, biscotti",05.433,5.8,0.02,g,MI0002,Biscuits and cookies
+"Cookie, with almond filling, Napoleonshatt",05.508,5.8,0.01,g,MI0002,Biscuits and cookies
+Coriander seeds,06.194,16,0.0,g,50,Herbs and spices
+"Coriander, dried",06.160,16,0.0,g,460g,Herbs and spices
+"Coriander, raw",06.121,16,0.0,g,460g,Herbs and spices
+"Corn and rice flakes, breakfast cereal, gluten-free, special flakes, Semper",05.475,5.3,0.0,g,141,Breakfast cereals
+"Corn and rice flakes, gluten-free, Schär",05.477,5.3,0.0,g,141,Breakfast cereals
+"Corn flakes, Kelloggs",05.033,5.3,0.0,g,60a,Breakfast cereals
+"Corn flakes, gluten-free, Schär",05.476,5.3,0.0,g,141,Breakfast cereals
+"Corn flakes, gluten-free, without added sugar, organic, Det Glutenfrie Verksted",05.531,5.3,0.0,g,117c,Breakfast cereals
+"Corn flakes, sugar coated, Frosties",05.239,5.3,0.0,g,210,Breakfast cereals
+Corn starch,05.015,5.1,0.0,g,50,Flour
+Cornmeal,05.013,5.1,0.0,g,141,Flour
+"Cortado, single",13.080,9.1,0.0,g,MI0002,Coffe and tea
+"Cortado, single, with lactose free milk",13.129,9.1,0.0,g,MI0002,Coffe and tea
+"Cortado, single, with oat based beverage",13.130,9.1,0.0,g,MI0002,Coffe and tea
+"Cortado, single, with oat based beverage (with iodine)",13.161,9.1,0.0,g,MI0002,Coffe and tea
+"Cortado, single, with soy based beverage",13.131,9.1,0.0,g,MI0002,Coffe and tea
+Cottage cheese,01.028,1.4.6,0.0,g,114a,Fresh cheese
+"Couscous, cooked",05.252,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Couscous, uncooked",05.225,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Cowpeas, blackeyes beans, uncooked",06.191,12,0.0,g,460g,Legumes
+"Crab apple, raw",06.607,13.2,0.0,g,460g,Fruit
+Crab stuffed shell,04.398,4.3,0.1,g,MI0002,Shellfish
+"Crab, plain, canned",04.091,4.3,0.15,g,321d,Shellfish
+"Crabstick salad, mayonnaise salad",08.122,8.3,0.04,g,MI0002,Mayonnaise and mayonnaise salads
+"Crabsticks, frozen",04.265,4.3,0.2,g,MI0002,Shellfish
+"Cracker, Cream cracker",05.075,5.8,0.0,g,MI0002,Biscuits and cookies
+"Cracker, fatty, salted, Ritz, Seltiner",05.154,5.8,0.0,g,210,Biscuits and cookies
+"Cracker, gluten-free, salted, Salti",05.473,5.8,0.0,g,141,Biscuits and cookies
+"Cracker, low-fat, Kaptein",05.152,5.8,0.0,g,210,Biscuits and cookies
+"Cracker, wholemeal flour, Kornmo",05.077,5.8,0.0,g,MI0002,Biscuits and cookies
+"Cranberries, dried, sweetened",06.228,13.3,0.0,g,233,Fruit and berries products
+"Cranberries, raw",06.765,13.1,0.0,g,460g,Berries
+"Cranberry beans, uncooked",06.181,12,0.0,g,50,Legumes
+Cranberry juice,06.777,9.2,0.0,g,460g,Juice and smoothies
+"Crawfish, boiled",04.121,4.3,0.03,g,336,Shellfish
+"Cream cheese, Philadelphia",01.269,1.4.6,0.0,g,400f,Fresh cheese
+"Cream cheese, goat milk, Snøfrisk",01.117,1.4.6,0.0,g,114a,Fresh cheese
+"Cream cheese, goat milk, Snøfrisk, chantarelle",01.260,1.4.6,0.0,g,114a,Fresh cheese
+"Cream cheese, goat milk, Snøfrisk, dill",01.257,1.4.6,0.0,g,114a,Fresh cheese
+"Cream cheese, goat milk, Snøfrisk, red onion and thyme",01.258,1.4.6,0.0,g,114a,Fresh cheese
+"Cream cheese, herbs",01.212,1.4.6,0.0,g,114a,Fresh cheese
+"Cream cheese, light, Philadelphia",01.271,1.4.6,0.0,g,400f,Fresh cheese
+"Cream cheese, pepper",01.254,1.4.6,0.0,g,114a,Fresh cheese
+"Cream cheese, plain",01.150,1.4.6,0.0,g,114a,Fresh cheese
+"Cream cheese, spices",01.253,1.4.6,0.0,g,114a,Fresh cheese
+"Cream puff, plain, no filling",05.180,5.10,0.05,g,MI0002,Cakes and sweet bakery
+"Cream substitute, vegetable fat, oat, 13 %",01.294,10.6,0.0,g,400i,Vegetarian products and dishes
+"Cream substitute, vegetable fat, soy, 17 % fat",01.293,10.6,0.0,g,20,Vegetarian products and dishes
+"Cream substitute, vegetable fat, whipped cream, canned",01.179,10.6,0.0,g,460g,Vegetarian products and dishes
+"Cream substitute, vegetable fat, whipping",01.189,10.6,0.0,g,460g,Vegetarian products and dishes
+"Cream, coffee, 10 % fat",01.108,1.3,0.0,g,114a,Cream and sour cream
+"Cream, household, 18 % fat",01.175,1.3,0.0,g,114a,Cream and sour cream
+"Cream, sour, 35 % fat",01.086,1.3,0.0,g,114a,Cream and sour cream
+"Cream, sour, 35 % fat, Crème Fraîche",01.089,1.3,0.0,g,114a,Cream and sour cream
+"Cream, sour, extra low-fat, 10 % fat",01.088,1.3,0.0,g,114a,Cream and sour cream
+"Cream, sour, low-fat, 18 % fat",01.087,1.3,0.0,g,114a,Cream and sour cream
+"Cream, sour, low-fat, 18 % fat, organic",01.286,1.3,0.0,g,114a,Cream and sour cream
+"Cream, whipped, canned",01.225,1.3,0.0,g,114a,Cream and sour cream
+"Cream, whipping, 37 % fat",01.015,1.3,0.0,g,114a,Cream and sour cream
+"Cream, whipping, 37 % fat, lactose free",01.273,1.3,0.0,g,114a,Cream and sour cream
+"Crisp bread, Mesterbakeren Original",05.399,5.7,0.0,g,60a,Crisp bread and flatbread
+"Crisp bread, Synnøve Grovkrisp sesamfrø og linfrø",05.398,5.7,0.0,g,60a,Crisp bread and flatbread
+"Crisp bread, gluten-free",05.190,5.7,0.0,g,141,Crisp bread and flatbread
+"Crisp bread, gluten-free, Superknäcke chia",05.467,5.7,0.0,g,141,Crisp bread and flatbread
+"Crisp bread, gluten-free, lactose-free, sesame and sea salt, Wasa",05.466,5.7,0.0,g,141,Crisp bread and flatbread
+"Crisp bread, home-made",05.459,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Crisp bread, light",05.069,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Crisp bread, rye and spelt, Sigdal helsprøtt",05.397,5.7,0.0,g,60a,Crisp bread and flatbread
+"Crisp bread, rye, Husman Sport",05.419,5.7,0.0,g,400g,Crisp bread and flatbread
+"Crisp bread, rye, Ryvita",05.396,5.7,0.0,g,60a,Crisp bread and flatbread
+"Crisp bread, rye, with filling, sandwich",05.446,5.7,0.0,g,20,Crisp bread and flatbread
+"Crisp bread, wholemeal flour, rye",05.148,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Crisp bread, wholemeal flour, rye, Husman",05.070,5.7,0.0,g,60a,Crisp bread and flatbread
+"Crisp bread, wholemeal flour, rye, thin, Rugsprø, Finncrisp",05.189,5.7,0.0,g,400k,Crisp bread and flatbread
+"Crisp bread, wholemeal flour, with oats",05.142,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Crisp bread, with extra fiber",05.143,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Crisp bread, with wheat bran",05.071,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Croissant, plain, industrially made",05.312,5.10,0.0,g,622,Cakes and sweet bakery
+"Croissant, with ham and cheese, from cafe/bakery",05.505,10.9.1,0.0,g,MI0002,Lunch dishes
+"Crowberries, raw",06.619,13.1,0.0,g,460g,Berries
+"Crumble pie, with apples",09.164,7.3,0.0,g,MI0002,Desserts and ice cream
+"Crumbled pie, with berries",09.163,7.3,0.0,g,MI0002,Desserts and ice cream
+"Cucumber salad, with vinegar",06.669,6.6,0.0,g,MI0002,Vegetable products
+"Cucumber, Norwegian, raw",06.010,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Cucumber, pickled",06.076,6.6,0.0,g,460g,Vegetable products
+"Cultured milk, banana, Skyr",01.306,1.2,0.0,g,MI0232,Yoghurt
+"Cultured milk, raspberry, Skyr",01.307,1.2,0.0,g,MI0232,Yoghurt
+"Cultured milk, with flavour, Skyr",01.233,1.2,0.0,g,115b,Yoghurt
+"Cultured oat product, for food preparation, 15 % fat",01.296,10.6,0.0,g,400i,Vegetarian products and dishes
+"Cultured, thickened oat product",01.295,10.6,0.0,g,400i,Vegetarian products and dishes
+"Cumin seeds, ground",06.266,16,0.0,g,460h,Herbs and spices
+"Cupcakes with icing, prepared from powder with butter",05.346,5.10,0.0,g,136,Cakes and sweet bakery
+"Curd, milk and whey, sweetened",01.058,1.4.4,0.0,g,114a,Other cheese
+Curry paste,10.131,10.7,0.0,g,136,Miscellaneous ingredients
+Curry powder,06.158,16,0.0,g,460g,Herbs and spices
+"Cusk, tusk, raw",04.004,4.1.2,0.12,g,321g,Lean fish
+"Cusk, tusk, roasted",04.381,4.1.2,0.16,g,MI0002,Lean fish
+"Cusk, tusk, simmered",04.380,4.1.2,0.19,g,MI0002,Lean fish
+"Custard, rum flavour, industrially made",01.112,7.3,0.0,g,114a,Desserts and ice cream
+"Custard, vanilla and egg, cake filling",05.291,7.3,0.02,g,MI0002,Desserts and ice cream
+"Custard, vanilla flavour, industrially made",01.111,7.3,0.0,g,114a,Desserts and ice cream
+"Custard, whole milk, vanilla flavour",05.295,7.3,0.0,g,MI0002,Desserts and ice cream
+Danish pastries with poppy seeds,05.499,5.5.1,0.01,g,MI0002,"Other bread products, home-made"
+"Danish pastry ring, filled with minced almonds",05.287,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Danish pastry, filled with jam",05.316,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Danish pastry, with custard filling",05.118,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Date balls, with cocoa powder and nuts",09.181,13.3,0.0,g,MI0002,Fruit and berries products
+"Date balls, with peanut butter and rolled oats",09.182,13.3,0.0,g,MI0002,Fruit and berries products
+"Dates, dried",06.527,13.3,0.0,g,460g,Fruit and berries products
+"Dessert with apple, cream and rusk",10.146,7.3,0.0,g,MI0002,Desserts and ice cream
+Dessert with cloudberries and whipped cream,10.140,7.3,0.0,g,MI0002,Desserts and ice cream
+"Dessert with cowberries, sugar and egg white",10.145,7.3,0.0,g,MI0002,Desserts and ice cream
+"Dill, dried",06.206,16,0.0,g,20,Herbs and spices
+"Dill, raw",06.120,16,0.0,g,460g,Herbs and spices
+"Dogfish, raw",04.111,4.1.1,0.95,g,321d,Fatty fish
+Doughnut,05.110,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Doughnut, with chocolate icing, industrially made",05.318,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Dover sole, raw",04.118,4.1.2,0.05,g,321d,Lean fish
+"Dressing, sour cream with herbs",01.180,8.3,0.0,g,MI0002,Mayonnaise and mayonnaise salads
+"Drops, hard",09.022,7.2,0.0,g,50,Chocolate and sweets
+"Duck, meat and skin, raw",03.001,3.1,0.0,g,460g,Poultry
+"Duck, with skin, roasted",03.233,3.1,0.0,g,MI0002,Poultry
+"Duck, without skin, raw",03.231,3.1,0.0,g,460g,Poultry
+"Duck, without skin, roasted",03.232,3.1,0.0,g,MI0002,Poultry
+"Edamame, soy beans, frozen",06.197,12,0.0,g,500a,Legumes
+"Eel, raw",04.049,4.1.1,3.49,g,216,Fatty fish
+"Eel, smoked",04.050,4.1.1,3.01,g,216,Fatty fish
+"Egg salad, home-made",08.268,8.3,0.08,g,MI0002,Mayonnaise and mayonnaise salads
+"Egg salad, mayonnaise salad, industrially made",08.130,8.3,0.06,g,MI0002,Mayonnaise and mayonnaise salads
+"Egg white, boiled",02.039,2,0.0,g,MI0002,Egg
+"Egg white, raw",02.002,2,0.0,g,224b,Egg
+"Egg yolk, boiled",02.040,2,0.26,g,MI0002,Egg
+"Egg yolk, raw",02.003,2,0.26,g,224b,Egg
+"Egg, boiled",02.026,2,0.1,g,MI0002,Egg
+"Egg, fried in fat",02.025,2,0.11,g,MI0002,Egg
+"Egg, organic, boiled",02.037,2,0.13,g,MI0002,Egg
+"Egg, organic, fried in fat",02.038,2,0.14,g,MI0002,Egg
+"Egg, organic, raw",02.030,2,0.13,g,224b,Egg
+"Egg, raw",02.001,2,0.1,g,224b,Egg
+"Egg, scrambled, fried in fat",02.008,2,0.09,g,MI0002,Egg
+"Egg, scrambled, fried without fat",02.009,2,0.09,g,MI0002,Egg
+Egg-flip,02.010,2,0.08,g,MI0002,Egg
+"Elderberries, raw",06.598,13.1,0.0,g,460g,Berries
+"Energy drink, with taurine, caffeine and B-vitamins",13.064,9.4,0.0,g,50,Soft drink and energy drink
+"Energy drink, with taurine, caffeine and B-vitamins, sugar free",13.065,9.4,0.0,g,50,Soft drink and energy drink
+"Espresso, single",13.069,9.1,0.0,g,93,Coffe and tea
+"Falafel, chickpeas balls, industrially made",06.817,10.6,0.0,g,232,Vegetarian products and dishes
+"Falafel, home-made",06.783,10.6,0.01,g,MI0002,Vegetarian products and dishes
+"Fallow deer, raw",03.114,3.10,0.0,g,460g,Game meat
+"Fat for cooking, unspecified",08.240,8.1,0.0,g,701G,Margarine and butter
+"Fat, coconut",08.001,8.5,0.0,g,400f,Other fats
+"Fat, coconut, Delfia",08.265,8.5,0.0,g,116a,Other fats
+"Fat, dripping, 100 % fat",08.230,8.5,0.0,g,116a,Other fats
+Fennel seeds,06.204,16,0.0,g,50,Herbs and spices
+"Fennel, raw",06.112,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Fig jam,06.854,13.3,0.0,g,MI0002,Fruit and berries products
+"Figs, dried",06.535,13.3,0.0,g,450d,Fruit and berries products
+"Figs, raw",06.212,13.2,0.0,g,460h,Fruit
+Filo pastry,10.132,10.7,0.0,g,400j,Miscellaneous ingredients
+"Fish balls, canned, drained",04.079,4.4,0.09,g,MI0002,Fish products
+"Fish balls, industrially made",04.210,4.4,0.0,g,MI0002,Fish products
+"Fish burger, breaded, fried, with bread, cheese, sauce, fast food restaurant",04.323,4.2,0.06,g,MI0002,Fish and shellfishes dishes
+"Fish burger, herring",04.273,4.4,0.62,g,MI0002,Fish products
+"Fish burger, industrially made",04.360,4.4,0.13,g,223a,Fish products
+"Fish burger, lean fish",04.062,4.4,0.13,g,MI0002,Fish products
+"Fish burger, mackerel",04.271,4.4,1.08,g,MI0002,Fish products
+"Fish burger, saithe",04.268,4.4,0.13,g,MI0002,Fish products
+"Fish burger, salmon",04.272,4.4,0.46,g,MI0002,Fish products
+"Fish cakes, industrially made",04.061,4.4,0.12,g,223a,Fish products
+"Fish dish, with white sauce, vegetables and potatoes",04.379,4.2,0.06,g,MI0002,Fish and shellfishes dishes
+"Fish fingers, pre-fried, fried in fat",04.319,4.4,0.09,g,MI0002,Fish products
+"Fish fingers, pre-fried, industrially made",04.352,4.4,0.09,g,223a,Fish products
+"Fish gratin, industrially made",04.365,4.2,0.06,g,223a,Fish and shellfishes dishes
+"Fish gratin, roasted, industrially made",04.293,4.2,0.07,g,MI0002,Fish and shellfishes dishes
+"Fish gratin, with egg and macaroni, roasted",04.292,4.2,0.08,g,MI0002,Fish and shellfishes dishes
+"Fish gratin, with egg, roasted",04.291,4.2,0.11,g,MI0002,Fish and shellfishes dishes
+"Fish in aspic, with fish pudding and shrimps",04.297,4.2,0.03,g,MI0002,Fish and shellfishes dishes
+"Fish paté, lean fish",04.274,4.4,0.14,g,MI0002,Fish products
+"Fish paté, salmon",04.275,4.4,0.26,g,MI0002,Fish products
+Fish pudding,04.063,4.4,0.0,g,MI0002,Fish products
+"Fish pudding, with cream",04.269,4.4,0.0,g,MI0002,Fish products
+"Fish soup, home-made",10.195,4.2,0.07,g,MI0002,Fish and shellfishes dishes
+"Fish soup, with salmon, home-made",10.194,4.2,0.11,g,MI0002,Fish and shellfishes dishes
+"Fish soup, with white fish, home-made",04.298,4.2,0.04,g,MI0002,Fish and shellfishes dishes
+"Fish, alkaline cured, soaked in water, Lutefisk",04.020,4.1.2,0.05,g,MI0002,Lean fish
+"Fish, dried, alkaline cured, simmered",04.314,4.1.2,0.07,g,MI0002,Lean fish
+"Fish, lean, minced, milk added, raw",04.270,4.4,0.06,g,MI0002,Fish products
+"Flan case bottom, with minced nuts",05.103,5.10,0.04,g,MI0002,Cakes and sweet bakery
+"Flatbread, hard",05.068,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Flatbread, hard, home-made style",05.146,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Flatbread, hard, with oats",05.144,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Flatbread, soft, sweet, Norwegian, filled, industrially made",05.313,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Flatbread, soft, sweet, Norwegian, lefse, thick, filled, industrially made",05.082,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Flatbread, soft, sweet, Norwegian, lefse, thick, no filling",05.081,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Flatbread, soft, wheat",05.385,5.6.1,0.0,g,MI0002,Other bread products
+"Flour, gluten-free, Finax",05.478,5.1,0.0,g,141,Flour
+"Flour, gluten-free, Finmix, Semper",05.479,5.1,0.0,g,141,Flour
+"Flour, gluten-free, Jyttemel Original",05.425,5.1,0.0,g,20,Flour
+"Flour, gluten-free, Schär",05.426,5.1,0.0,g,20,Flour
+"Flour, gluten-free, coarse, Semper",05.424,5.1,0.0,g,20,Flour
+"Flour, gluten-free, mix for white bread, Toro",05.250,5.1,0.0,g,211,Flour
+"Flour, gluten-free, mix for wholemeal bread",05.251,5.1,0.0,g,141,Flour
+"Flour, wholemeal, wheat and rye",05.121,5.1,0.0,g,MI0002,Flour
+"Foam candy, Ahlgrens bilar",09.160,7.2,0.0,g,400f,Chocolate and sweets
+Focaccia bread,05.437,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Focaccia flour mix, gluten-free, organic, powder, Det Glutenfrie Verksted",05.533,5.1,0.0,g,117c,Flour
+"Fortified wines, sweet vermouth, 15 vol-% alcohol",13.052,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Fortified wines, sweet, port, 20 vol-% alcohol",13.055,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Frappe, caramel/mocca",13.144,9.1,0.0,g,MI0002,Coffe and tea
+"Frappe, strawberries and white chocolate",13.143,9.1,0.0,g,MI0002,Coffe and tea
+"French fries, fast food restaurant",06.738,15.2,0.0,g,MI0002,Potato products
+Frosting,09.004,7.1,0.0,g,50,Sugar and honey
+"Frosting, plain",05.299,7.1,0.0,g,MI0002,Sugar and honey
+"Frozen ice dessert, plant-based, chocolate",10.210,7.3,0.0,g,234,Desserts and ice cream
+"Frozen ice dessert, plant-based, vanilla",10.209,7.3,0.0,g,234,Desserts and ice cream
+"Fruit bar, fruit candy",11.097,7.2,0.0,g,400j,Chocolate and sweets
+"Fruit cocktail, canned, in natural juice",06.536,13.3,0.0,g,460g,Fruit and berries products
+"Fruit cocktail, canned, in syrup",06.537,13.3,0.0,g,460g,Fruit and berries products
+"Fruit drink, 1000 g sugar/l syrup, concentrated",06.567,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, 1000 g sugar/l syrup, ready-to-drink",06.584,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, 500 g sugar/l syrup, concentrated",06.566,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, 500 g sugar/l syrup, ready-to-drink",06.583,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, blackcurrant, 1000 g sugar/l syrup, concentrated",06.732,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, blackcurrant, 1000 g sugar/l syrup, ready-to-drink",06.731,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, blackcurrant, 500 g sugar/l syrup, concentrated",06.730,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, blackcurrant, 500 g sugar/l syrup, ready-to-drink",06.613,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, mixed berries, concentrated",06.589,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, mixed berries, ready-to-drink",06.590,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, orange, concentrated",06.569,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, orange, ready-to-drink",06.585,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit drink, without added sugar, artificially sweetened, ready-to-drink",13.036,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit jellies, Seigmenn",09.128,7.2,0.0,g,50,Chocolate and sweets
+"Fruit juice drink, blackcurrant, concentrated",06.574,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit juice drink, blackcurrant, ready-to-drink",06.587,9.2,0.0,g,MI0002,Juice and smoothies
+"Fruit muesli, breakfast cereal, gluten-free, Finax",05.474,5.3,0.0,g,141,Breakfast cereals
+"Garfish, raw",04.008,4.1.2,0.66,g,420e,Lean fish
+Garlic powder,06.154,16,0.0,g,460g,Herbs and spices
+"Garlic, raw",06.038,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Gelatin,12.110,10.7,0.0,g,318,Miscellaneous ingredients
+Ghee,08.252,8.1,0.0,g,20,Margarine and butter
+"Ghee, vegetable oil",08.253,8.1,0.0,g,60a,Margarine and butter
+"Ginger juice, ginger shot, cafe/bakery",06.243,9.2,0.0,g,MI0002,Juice and smoothies
+"Ginger juice, ginger shot, with orange and turmeric, cafe/bakery",06.244,9.2,0.0,g,MI0002,Juice and smoothies
+Ginger nuts,05.134,5.8,0.0,g,MI0002,Biscuits and cookies
+"Ginger, canned",06.140,6.6,0.0,g,460g,Vegetable products
+"Ginger, ground",06.155,16,0.0,g,460g,Herbs and spices
+"Ginger, root, raw",06.108,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Gingersnaps,05.198,5.8,0.0,g,MI0002,Biscuits and cookies
+Glucose syrup,09.174,7.1,0.0,g,50,Sugar and honey
+"Goat cheese, chevre, Naturell",01.251,1.4.4,0.0,g,114a,Other cheese
+"Goat cheese, hard, white, Balsfjord",01.248,1.4.7,0.0,g,114a,Hard cheese
+"Goat cheese, hard, white, Kvitlin",01.249,1.4.7,0.0,g,114a,Hard cheese
+"Goji berries, dried",06.843,13.3,0.0,g,621,Fruit and berries products
+"Goose, meat and skin, raw",03.002,3.1,0.0,g,460g,Poultry
+"Goose, with skin, roasted",03.234,3.1,0.0,g,MI0002,Poultry
+"Goose, without skin, raw",03.305,3.1,0.0,g,460g,Poultry
+"Goose, without skin, roasted",03.245,3.1,0.0,g,MI0002,Poultry
+"Gooseberries, raw",06.514,13.1,0.0,g,460g,Berries
+Gooseberry jam,06.241,13.3,0.0,g,MI0002,Fruit and berries products
+Gram flour,05.383,5.1,0.0,g,30,Flour
+"Gram flour, organic",05.526,5.1,0.0,g,117c,Flour
+"Granola, home-made",05.483,5.3,0.0,g,MI0002,Breakfast cereals
+Grape juice,06.728,9.2,0.0,g,460g,Juice and smoothies
+Grapefruit juice,06.776,9.2,0.0,g,460g,Juice and smoothies
+"Grapefruit, raw",06.538,13.2,0.0,g,460g,Fruit
+"Grapes, green, raw",06.756,13.2,0.0,g,460g,Fruit
+"Grapes, raw",06.528,13.2,0.0,g,460g,Fruit
+"Grapes, red, raw",06.755,13.2,0.0,g,460g,Fruit
+"Greek salad, with feta cheese and olives",06.712,10.9.3,0.0,g,MI0002,Salads
+"Green juice, with cucumber and spinach, from cafe/bakery",06.242,9.2,0.0,g,MI0002,Juice and smoothies
+"Griddle cake, Norwegian, svele",05.418,5.9,0.01,g,MI0002,Pancakes and waffles
+Guacamole,06.672,6.6,0.0,g,MI0002,Vegetable products
+"Guava, raw",06.597,13.2,0.0,g,460h,Fruit
+"Gulach, home-made",10.160,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Haddock, raw",04.110,4.1.2,0.0,g,400i,Lean fish
+"Haddock, simmered",04.218,4.1.2,0.0,g,MI0002,Lean fish
+"Haddock, slices, smoked, raw",04.011,4.1.2,0.14,g,321d,Lean fish
+"Haddock, smoked, slices, simmered",04.221,4.1.2,0.21,g,MI0002,Lean fish
+"Halibut Atlantic, fillet, rolled in flour, fried in fat",04.223,4.1.1,0.41,g,MI0002,Fatty fish
+"Halibut, Atlantic, farmed, raw",04.324,4.1.1,0.29,g,216,Fatty fish
+"Halibut, Atlantic, raw",04.014,4.1.1,0.48,g,216,Fatty fish
+"Halibut, Atlantic, slices, simmered",04.222,4.1.1,0.56,g,MI0002,Fatty fish
+"Halibut, Atlantic, slices, smoked, raw",04.309,4.1.1,1.19,g,216,Fatty fish
+"Halibut, Atlantic, unspecified, raw",04.325,4.1.1,0.39,g,216,Fatty fish
+"Halibut, Greenland, raw/smoked",04.001,4.1.1,0.34,g,216,Fatty fish
+"Ham, boiled",03.106,3.5,0.01,g,227a,Meat products
+"Ham, boiled, canned",03.188,3.5,0.0,g,MI0002,Meat products
+"Ham, cured",03.109,3.5,0.03,g,214,Meat products
+"Ham, smoke-cured",03.111,3.5,0.01,g,227a,Meat products
+"Ham, turkey, smoked",03.323,3.5,0.01,g,207,Meat products
+"Ham, turkey, with spices",03.322,3.5,0.03,g,208,Meat products
+Hamburger bun,05.061,5.6.1,0.0,g,MI0002,Other bread products
+"Hamburger, raw",03.132,3.5,0.0,g,MI0002,Meat products
+"Hare, raw",03.113,3.10,0.0,g,460g,Game meat
+"Hash, with potato, meat, onion, frozen, industrially made",03.317,3.7,0.0,g,MI0002,Poultry or meat dishes
+Hazelnuts,06.553,14.2,0.0,g,611a,Nuts
+Head cheese,03.167,3.5,0.01,g,MI0002,Meat products
+"Heart, raw",03.118,3.9,0.0,g,460g,Offal
+"Hen stew, home-made",03.466,3.7,0.03,g,MI0002,Poultry or meat dishes
+"Hen, fillet, boiled",03.236,3.1,0.02,g,MI0002,Poultry
+"Hen, fillet, raw",03.224,3.1,0.02,g,207,Poultry
+"Hen, meat and skin, raw",03.003,3.1,0.1,g,207,Poultry
+"Hen, with skin, boiled",03.206,3.1,0.08,g,MI0002,Poultry
+"Hen, without skin, raw",03.237,3.1,0.17,g,207,Poultry
+"Herring salad, with potatoes",04.301,4.2,0.1,g,MI0002,Fish and shellfishes dishes
+"Herring, cured, soaked in water",04.310,4.1.1,1.44,g,321d,Fatty fish
+"Herring, in spicy marinade",04.033,4.4,0.5,g,116a,Fish products
+"Herring, pickled, drained",04.290,4.4,0.6,g,117a,Fish products
+"Herring, pickled, marinated, with mayonnaise and sour cream",04.287,4.4,0.41,g,116a,Fish products
+"Herring, pickled, marinated, with mustard sauce",04.288,4.4,0.41,g,116a,Fish products
+"Herring, raw",04.382,4.1.1,0.93,g,321g,Fatty fish
+"Herring, rolled in flour, fried in fat",04.384,4.1.1,0.8,g,MI0002,Fatty fish
+"Herring, simmered",04.383,4.1.1,0.77,g,MI0002,Fatty fish
+"Herring, smoked, Bøkling",04.123,4.1.1,0.89,g,321d,Fatty fish
+"Hoisin sauce, home-made",10.197,10.11,0.0,g,MI0002,Dinner products
+"Hollandaise sauce, home-made",10.162,10.11,0.04,g,MI0002,Dinner products
+Honey,09.003,7.1,0.0,g,50,Sugar and honey
+"Horse-radish, raw",06.117,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Hot chocolate, semi-skimmed milk",01.310,1.1,0.01,g,MI0002,Milk
+"Hot chocolate, whole milk",01.309,1.1,0.01,g,MI0002,Milk
+Hot dog bun,05.063,5.6.1,0.0,g,MI0002,Other bread products
+Hummus,06.679,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Ice coffee, cappuchino",13.120,9.1,0.0,g,114a,Coffe and tea
+"Ice cream, dairy, caramel filling, with wafer and chocolate coating",01.244,7.3,0.0,g,MI0002,Desserts and ice cream
+"Ice cream, dairy, chocolate, without added sugar",01.319,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, crushed nougat",01.316,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, liquorice",01.333,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, salty caramel, without added sugar",01.318,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, vanilla",01.018,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, vanilla and chocolate, without added sugar",01.325,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, vanilla, 15 % cream",01.342,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, vanilla, > 25 % cream",01.343,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, vanilla, with cookie dough",01.331,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, vanilla, with dark chocolate coating",01.243,7.3,0.0,g,MI0002,Desserts and ice cream
+"Ice cream, dairy, vanilla, with oreo cookies",01.326,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, vanilla, without added sugar",01.315,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, with chocolate cookie and salty caramel",01.332 ,7.3,0.0,g,234,Desserts and ice cream
+"Ice cream, dairy, with wafer and chocolate, cone, krone-is",01.240,7.3,0.01,g,MI0002,Desserts and ice cream
+"Ice cream, dairy, with wafer and strawberry, cone, krone-is",01.241,7.3,0.0,g,MI0002,Desserts and ice cream
+"Ice cream, non-dairy, fruit, mango",01.322,7.3,0.0,g,50,Desserts and ice cream
+"Ice cream, vanilla, home-made",01.308,7.3,0.04,g,MI0002,Desserts and ice cream
+"Ice lolly, fruit juice",09.114,7.3,0.0,g,MI0002,Desserts and ice cream
+"Ice lolly, with fruit juice",09.115,7.3,0.0,g,MI0002,Desserts and ice cream
+"Iced tea, artificially sweetened, light, industrially made",13.070,9.1,0.0,g,50,Coffe and tea
+"Iced tea, industrially made",13.071,9.1,0.0,g,50,Coffe and tea
+"Iced tea, lemon, industrially made",13.150,9.1,0.0,g,20,Coffe and tea
+"Iced tea, peach, industrially made",13.151,9.1,0.0,g,20,Coffe and tea
+"Instant coffee, ready-to-drink",13.034,9.1,0.0,g,50,Coffe and tea
+"Italian salad, mayonnaise salad",08.128,8.3,0.01,g,117a,Mayonnaise and mayonnaise salads
+"Jackfruit, raw",06.629,13.2,0.0,g,460g,Fruit
+"Jalapeño, raw",06.125,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Jam, 40 % berries, 40 % sugar",06.762,13.3,0.0,g,MI0002,Fruit and berries products
+"Jam, 45 % berries, 25 % sugar",06.591,13.3,0.0,g,MI0002,Fruit and berries products
+"Jam, 60 % berries, 30 % sugar",06.763,13.3,0.0,g,MI0002,Fruit and berries products
+"Jam, without added sugar",06.761,13.3,0.0,g,MI0002,Fruit and berries products
+"Jelly, powder base, prepared",10.004,7.3,0.0,g,MI0002,Desserts and ice cream
+"Jerusalem artichoke soup, home-made",10.163,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Jerusalem artichoke, raw",06.109,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Juice, mixed fruits",13.147,9.2,0.0,g,MI0002,Juice and smoothies
+"Juice, with apple, carrot, ginger and lemon, from cafe/bakery",06.245,9.2,0.0,g,MI0002,Juice and smoothies
+"Juice, with beetroot, carrot and ginger, from cafe/bakery",06.246,9.2,0.0,g,MI0002,Juice and smoothies
+"Kale, frozen, raw",06.208,6.2,0.0,g,20,"Vegetables, raw and prepared"
+"Kale, raw",06.035,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Kale, steamed",06.850,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+Kebab durum,03.508,3.7,0.0,g,420k,Poultry or meat dishes
+"Kebab meat, prepared, restaurant",03.497,3.5,0.0,g,622,Meat products
+"King crab, red, boiled",04.393,4.3,0.11,g,336,Shellfish
+"King prawns, raw",04.340,4.3,0.09,g,136,Shellfish
+"Kiwi fruit, raw",06.539,13.2,0.0,g,60a,Fruit
+"Kohlrabi, raw",06.086,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Kumquat, raw",06.601,13.2,0.0,g,460g,Fruit
+"Lamb and cabbage stew, fårikål",03.251,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Lamb stew, meat and vegetables, in sauce",03.257,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Lamb striploin, raw",03.212,3.2,0.01,g,334,Lamb
+"Lamb, chops, raw",03.266,3.2,0.0,g,60b,Lamb
+"Lamb, cutlet, fried without fat",03.267,3.2,0.0,g,MI0002,Lamb
+"Lamb, for mutton and cabbage stew (Fårikål), raw",03.218,3.2,0.0,g,60b,Lamb
+"Lamb, inside round, raw",03.211,3.2,0.01,g,334,Lamb
+"Lamb, inside round, roasted",03.483,3.2,0.01,g,MI0002,Lamb
+"Lamb, leg, cured, dried, smoked",03.029,3.5,0.0,g,214,Meat products
+"Lamb, leg, for roast, raw",03.014,3.2,0.01,g,334,Lamb
+"Lamb, leg, roasted",03.265,3.2,0.01,g,MI0002,Lamb
+"Lamb, minced meat, 14 % fat, raw",03.479,3.8,0.0,g,60b,Minced meat
+"Lamb, minced meat, fried without fat",03.480,3.8,0.0,g,MI0002,Minced meat
+"Lamb, rib, raw",03.487,3.2,0.0,g,60b,Lamb
+"Lamb, roll",03.214,3.5,0.0,g,MI0002,Meat products
+"Lamb, shoulder, for roast, raw",03.215,3.2,0.01,g,334,Lamb
+"Lamb, shoulder, roasted",03.482,3.2,0.01,g,MI0002,Lamb
+"Lamb, sirloin, raw",03.485,3.2,0.0,g,60b,Lamb
+"Lamb, sirloin, roasted without fat",03.486,3.2,0.0,g,MI0002,Lamb
+"Lamb, striploin, roasted without fat",03.488,3.2,0.02,g,MI0002,Lamb
+"Lamb, tenderloin, raw",03.213,3.2,0.01,g,334,Lamb
+"Lamb, tenderloin, roasted",03.484,3.2,0.02,g,MI0002,Lamb
+"Lasagne, with minced meat",03.254,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Lasagne, with minced meat, frozen, industrially made",03.315,3.7,0.0,g,209,Poultry or meat dishes
+"Leaf beet, mangold, raw",06.092,6.2,0.0,g,460e,"Vegetables, raw and prepared"
+"Leek, Norwegian, raw",06.052,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Leek, cooked",06.723,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Leek, frozen",06.255,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Leek, imported, raw",06.283,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Leek, raw",06.284,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Lemon juice, bottled",06.729,9.2,0.0,g,460g,Juice and smoothies
+Lemon mousse,09.162,7.3,0.03,g,MI0002,Desserts and ice cream
+Lemon peel,06.626,13.3,0.0,g,460g,Fruit and berries products
+"Lemon sole, raw",04.113,4.1.2,0.02,g,136,Lean fish
+Lemon tart,05.415,5.10,0.03,g,MI0002,Cakes and sweet bakery
+"Lemon, raw",06.550,13.2,0.0,g,460g,Fruit
+"Lemonade, with lemon, from cafe/bakery",06.248,9.2,0.0,g,MI0002,Juice and smoothies
+"Lemonade, with passion fruit",13.146,9.2,0.0,g,MI0002,Juice and smoothies
+"Lemonade, with raspberries, from cafe/bakery",06.247,9.2,0.0,g,MI0002,Juice and smoothies
+Lentil crisps,10.216,10.5,0.0,g,621,Snacks
+Lentil soup,10.228,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Lentil sprouts, green, raw",06.273,6.2,0.0,g,20,"Vegetables, raw and prepared"
+"Lentils and bean salad, industrially made",06.693,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Lentils, black, beluga, uncooked",06.256,12,0.0,g,MI0232,Legumes
+"Lentils, green, canned",06.130,12,0.0,g,460g,Legumes
+"Lentils, green, cooked",06.105,12,0.0,g,MI0002,Legumes
+"Lentils, green, puy, uncooked",06.257,12,0.0,g,MI0232,Legumes
+"Lentils, green, uncooked",06.104,12,0.0,g,460g,Legumes
+"Lentils, red, canned",06.131,12,0.0,g,460g,Legumes
+"Lentils, red, uncooked",06.184,12,0.0,g,50,Legumes
+"Lettuce leaves, Norwegian, raw",06.058,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Lettuce, Iceberg, Norwegian. raw",06.281,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Lettuce, Iceberg, imported, raw",06.282,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Lettuce, Iceberg, raw",06.059,6.2,,,10,"Vegetables, raw and prepared"
+"Lettuce, Rapid, Norwegian",06.097,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Lima beans, uncooked",06.179,12,0.0,g,460g,Legumes
+"Lime, raw",06.603,13.2,0.0,g,460g,Fruit
+"Ling, raw",04.019,4.1.2,0.04,g,321d,Lean fish
+"Lingonberries, cowberries, raw",06.515,13.1,0.0,g,460g,Berries
+Lingonberry/cowberry jam,06.815,13.3,0.0,g,MI0002,Fruit and berries products
+"Lingonberry/cowberry jam, frozen",06.516,13.3,0.0,g,MI0002,Fruit and berries products
+"Linseeds, flax seeds, crushed",05.012,14.1,0.0,g,460g,Seeds
+"Liqueur, 17 vol-% alcohol, cream-based",13.054,9.3,0.0,g,450a,"Beer, wine, spirit etc"
+"Liqueur, 35 vol-% alcohol",13.014,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Liqueur, sweet, 21 vol-% alcohol",13.053,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Liquid vitamins and minerals, Floradix",12.117,10.10,0.0,g,20,Food supplements
+"Liquid vitamins and minerals, Sanasol",12.116,10.7,0.0,g,137,Miscellaneous ingredients
+"Liquid vitamins, Multi Vitaminmikstur, Nycoplus",10.137,10.10,0.0,g,114a,Food supplements
+"Liquorice, allsorts",09.113,7.2,0.0,g,400e,Chocolate and sweets
+"Liquorice, sweet",09.030,7.2,0.0,g,215,Chocolate and sweets
+Liver paste,03.471,3.5,0.04,g,30,Meat products
+"Liver paste, canned",03.434,3.5,0.04,g,227a,Meat products
+"Liver paste, chicken",03.438,3.5,0.04,g,227a,Meat products
+"Liver paste, chicken, canned",03.437,3.5,0.03,g,227a,Meat products
+"Liver paste, chicken, oven-baked",03.436,3.5,0.05,g,227a,Meat products
+"Liver paste, coarse, Danish type",03.469,3.5,0.0,g,116a,Meat products
+"Liver paste, oven-baked",03.157,3.5,0.01,g,701G,Meat products
+"Liver paste, unspecified",03.470,3.5,0.02,g,701G,Meat products
+"Liver paste, with bacon",03.477,3.5,0.0,g,116a,Meat products
+"Liver, beef, raw",03.122,3.9,0.07,g,209,Offal
+"Liver, chicken, raw",03.259,3.9,0.0,g,460g,Offal
+"Liver, lamb, raw",03.120,3.9,0.17,g,209,Offal
+"Liver, pork, raw",03.123,3.9,0.06,g,209,Offal
+"Liver, reindeer, raw",03.121,3.9,0.17,g,209,Offal
+"Lobster tail, in brine, drained",04.374,4.3,0.01,g,400i,Shellfish
+"Lobster, boiled",04.054,4.3,0.1,g,336,Shellfish
+"Lobster, raw",04.394,4.3,0.08,g,336,Shellfish
+"Lobster, roasted",04.395,4.3,0.1,g,MI0002,Shellfish
+"Lotus root, raw",06.185,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Lungs, hashed, industrially made",03.171,3.5,0.0,g,MI0002,Meat products
+"Lychee, raw",06.604,13.2,0.0,g,460g,Fruit
+"Macadamia nuts, raw",06.617,14.2,0.0,g,460g,Nuts
+"Macchiato, single",13.078,9.1,0.0,g,MI0002,Coffe and tea
+"Macchiato, single, with lactose free milk",13.138,9.1,0.0,g,MI0002,Coffe and tea
+"Macchiato, single, with oat based beverage",13.139,9.1,0.0,g,MI0002,Coffe and tea
+"Macchiato, single, with oat based beverage (with iodine)",13.158,9.1,0.0,g,MI0002,Coffe and tea
+"Macchiato, single, with soy based beverage",13.140,9.1,0.0,g,MI0002,Coffe and tea
+"Mackerel fillet, 60 % mackerel, in tomato sauce, canned",04.396,4.4,1.35,g,233,Fish products
+"Mackerel fillet, in tomato sauce, 70 % mackerel, canned",04.097,4.4,2.01,g,233,Fish products
+"Mackerel fillet, in tomato sauce, canned",04.378,4.4,1.71,g,233,Fish products
+"Mackerel, August - December, fried in fat",04.228,4.1.1,2.42,g,MI0002,Fatty fish
+"Mackerel, August - December, raw",04.023,4.1.1,2.8,g,701G,Fatty fish
+"Mackerel, August - December, simmered",04.227,4.1.1,2.33,g,MI0002,Fatty fish
+"Mackerel, February - June, fried in fat",04.230,4.1.1,0.45,g,MI0002,Fatty fish
+"Mackerel, February - June, raw",04.022,4.1.1,0.46,g,321g,Fatty fish
+"Mackerel, February - June, simmered",04.229,4.1.1,0.39,g,MI0002,Fatty fish
+"Mackerel, cold smoked",04.311,4.1.1,2.01,g,321d,Fatty fish
+"Mackerel, warm smoked",04.024,4.1.1,2.66,g,321d,Fatty fish
+"Malt loaf, with raisins",05.117,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Mango salsa, home-made",06.203,13.3,0.0,g,MI0002,Fruit and berries products
+"Mango, dried",06.226,13.3,0.0,g,233,Fruit and berries products
+"Mango, dried, sweetened",06.227,13.3,0.0,g,233,Fruit and berries products
+"Mango, frozen",06.839,13.2,0.0,g,50,Fruit
+"Mango, raw",06.542,13.2,0.0,g,460g,Fruit
+"Margarine, fat spread, Bremykt mykere",08.262,8.1,0.0,g,93,Margarine and butter
+"Margarine, fat spread, Olivero",08.260,8.1,0.0,g,116a,Margarine and butter
+"Margarine, fat spread, rapeseed and sunflower oil, 40 % fat, Vita lett",08.229,8.1,0.0,g,116a,Margarine and butter
+"Margarine, fat spread, rapeseed and sunflower oil, 80 % fat, Vita hjertego myk",08.228,8.1,0.0,g,116a,Margarine and butter
+"Margarine, fat spread, semi-hard, butter and rapeseed oil, 82 % fat, Bremykt",08.102,8.1,0.0,g,109b,Margarine and butter
+"Margarine, fat spread, vegetable fat and butter, 40 % fat, Brelett",08.103,8.1,0.0,g,109b,Margarine and butter
+"Margarine, fat spread, vegetable fat, Soft light",08.223,8.1,0.0,g,116a,Margarine and butter
+"Margarine, for baking/frying, hard, vegetable fat, Melange",08.212,8.1,0.0,g,116a,Margarine and butter
+"Margarine, for baking/frying, soft, vegetable fat, Soft Flora",08.222,8.1,0.0,g,116a,Margarine and butter
+"Margarine, hard",08.238,8.1,0.0,g,114a,Margarine and butter
+"Margarine, liquid, rapeseed and sunflower oil, 85 % fat, Vita",08.117,8.1,0.0,g,116a,Margarine and butter
+"Margarine, liquid, vegetable fat, Melange",08.213,8.1,0.0,g,116a,Margarine and butter
+"Margarine, liquid, vegetable fat, vegan, Melange",08.267,8.1,0.0,g,116a,Margarine and butter
+"Margarine, liquid, vegetable fat, with butter oil, Melange",08.266,8.1,0.0,g,116a,Margarine and butter
+"Margarine, reduced salt, Soft Spesial",08.245,8.1,0.0,g,116a,Margarine and butter
+"Margarine, soft",08.239,8.1,0.0,g,114a,Margarine and butter
+"Margarine, soft, spread with sterols, 35 % fat, Vita Pro aktiv",08.118,8.1,0.0,g,116a,Margarine and butter
+"Margarine, vegetable fat, Soft Flora",08.221,8.1,0.0,g,116a,Margarine and butter
+"Margarine, without salt and milk, foil",08.244,8.1,0.0,g,116a,Margarine and butter
+"Marjoram, dried",06.186,16,0.0,g,460g,Herbs and spices
+Marshmallows,09.127,7.2,0.0,g,50,Chocolate and sweets
+"Marzipan bar, chocolate covered",09.101,7.2,0.03,g,207,Chocolate and sweets
+Marzipan ring cake,05.099,5.8,0.0,g,MI0002,Biscuits and cookies
+"Marzipan, 30 % almonds",09.130,7.2,0.0,g,MI0002,Chocolate and sweets
+"Marzipan, 50 % almonds",09.016,7.2,0.0,g,MI0002,Chocolate and sweets
+Mashed swede,06.671,6.6,0.0,g,MI0002,Vegetable products
+"Mayonnaise salad, with cheese",08.121,8.3,0.01,g,701G,Mayonnaise and mayonnaise salads
+"Mayonnaise, fat reduced, 40 % fat",08.011,8.3,0.02,g,116a,Mayonnaise and mayonnaise salads
+"Mayonnaise, fat reduced, 50 % fat",08.010,8.3,0.02,g,114a,Mayonnaise and mayonnaise salads
+"Mayonnaise, full fat, 80 % fat",08.009,8.3,0.02,g,116a,Mayonnaise and mayonnaise salads
+"Mayonnaise, low-fat, 25 % fat",08.022,8.3,0.01,g,MI0002,Mayonnaise and mayonnaise salads
+"Meat balls, chicken",03.458,3.5,0.0,g,228a,Meat products
+"Meat loaf, roasted",03.134,3.5,0.0,g,MI0002,Meat products
+Meat rissoles,03.457,3.5,0.0,g,228a,Meat products
+"Meat rissoles with pea stew, industrially made",09.135,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Meat rissoles, Swedish",03.506,3.5,0.0,g,228a,Meat products
+"Meat rissoles, beef, industrially made",03.133,3.5,0.0,g,228a,Meat products
+"Meat rissoles, canned",03.177,3.5,0.0,g,MI0002,Meat products
+"Meat rissoles, reindeer, canned",03.181,3.5,0.0,g,MI0002,Meat products
+"Meat rissoles, turkey and chicken",03.459,3.5,0.01,g,228a,Meat products
+"Meat, minced beef, salt, water or milk, spices and starch added",03.129,3.8,0.0,g,MI0002,Minced meat
+"Melon, cantaloupe, raw",06.600,13.2,0.0,g,460g,Fruit
+"Melon, galia, raw",06.770,13.2,0.0,g,460g,Fruit
+"Melon, honeydew, raw",06.610,13.2,0.0,g,460g,Fruit
+"Melon, water, raw",06.543,13.2,0.0,g,460g,Fruit
+Meringue,05.139,5.8,0.0,g,MI0002,Biscuits and cookies
+"Meringue, cake bottom",05.429,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Milk beverage, chocolate flavour",01.008,1.1,0.0,g,114a,Milk
+"Milk beverage, chocolate flavour, no added sugar, Litago Uten",01.280,1.1,0.0,g,114a,Milk
+"Milk beverage, with chocolate flavour, Litago",01.127,1.1,0.0,g,114a,Milk
+"Milk spread, sugar added, Hapå",09.008,7.4,0.0,g,MI0002,Sweet spreads
+"Milk, condensed, sweetened",10.147,10.7,0.0,g,460g,Miscellaneous ingredients
+"Milk, cultured, Biola",01.170,1.1,0.0,g,114a,Milk
+"Milk, cultured, Kefir, with flavour, Q-meieriene",01.303,1.1,0.0,g,70,Milk
+"Milk, cultured, semi-skimmed, 0,1 % fat, blueberry and raspberry, BioQ",01.237,1.1,0.0,g,109c,Milk
+"Milk, cultured, skimmed, Skummet kulturmelk",01.085,1.1,0.0,g,114a,Milk
+"Milk, cultured, skimmed, blueberry, Biola",01.171,1.1,0.0,g,114a,Milk
+"Milk, cultured, skimmed, raspberry, Biola",01.214,1.1,0.0,g,114a,Milk
+"Milk, cultured, skimmed, strawberry, Biola",01.213,1.1,0.0,g,114a,Milk
+"Milk, cultured, whole, Kefir, Tine",01.084,1.1,0.0,g,114a,Milk
+"Milk, cultured, whole, Kulturmelk",01.083,1.1,0.0,g,114a,Milk
+"Milk, for coffee, 3,5 % fat",01.109,1.1,0.0,g,114a,Milk
+"Milk, goat, UHT-treated",01.013,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, 0,5 % fat, unspecified",01.231,1.1,0.0,g,701G,Milk
+"Milk, semi-skimmed, 0,5 % fat, vitamin D, Q-meieriene",01.230,1.1,0.0,g,115b,Milk
+"Milk, semi-skimmed, 0,5 % fat, vitamin D, Tine",01.192,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, 0,5 % fat, vitamin D, lactose free",01.274,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, 0,7 % fat, organic",01.285,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, 1 % fat, unspecified",01.229,1.1,0.0,g,701G,Milk
+"Milk, semi-skimmed, 1,0 % fat, Q-meieriene",01.228,1.1,0.0,g,115b,Milk
+"Milk, semi-skimmed, 1,0 % fat, Tine",01.002,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, 1,0 % fat, lactose free",01.215,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, 1,0 % fat, lactose reduced",01.118,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, 1,2 % fat, UHT-treated",01.119,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, 1,2 % fat, organic",01.268,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, beetroot/apple/lime, Biola",01.278,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, chocolate flavour, vitamin D",01.227,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, cultured, lactose free, Biola",01.277,1.1,0.0,g,114a,Milk
+"Milk, semi-skimmed, unspecified",01.292,1.1,0.0,g,701G,Milk
+"Milk, skimmed, Styrk",01.289,1.1,0.0,g,114a,Milk
+"Milk, skimmed, Tine",01.003,1.1,0.0,g,114a,Milk
+"Milk, unspecified",01.291,1.1,0.0,g,701G,Milk
+"Milk, whole, 3,5 % fat, Tine",01.001,1.1,0.0,g,114a,Milk
+"Milk, whole, 3,5 % fat, lactose free",01.272,1.1,0.0,g,114a,Milk
+"Milk, whole, 4 % fat, Q-meieriene",01.235,1.1,0.0,g,115b,Milk
+"Milk, whole, 4,1 % fat, organic",01.283,1.1,0.0,g,114a,Milk
+"Milk, whole, unspecified",01.236,1.1,0.0,g,701G,Milk
+"Milkshake, chocolate flavour",01.079,1.1,0.0,g,114a,Milk
+Millet flakes,05.530,5.2,0.0,g,117c,"Grain, rice and pasta"
+"Millet, grain",05.005,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Mineral water, carbonated, Bonaqua naturell",13.072,9.6,0.0,g,50,Water and mineral water
+"Mineral water, carbonated, Bris naturell",13.073,9.6,0.0,g,50,Water and mineral water
+"Mineral water, carbonated, Farris naturell",13.074,9.6,0.0,g,50,Water and mineral water
+"Mineral water, carbonated, Olden",13.076,9.6,0.0,g,50,Water and mineral water
+"Mineral water, not carbonated, Bonaqua natural",13.075,9.6,0.0,g,50,Water and mineral water
+"Mineral water, not carbonated, Olden",13.077,9.6,0.0,g,50,Water and mineral water
+"Minestrone soup, without meat, home-made",10.166,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Mint, dried",06.260,16,0.0,g,20,Herbs and spices
+"Mint, raw",06.259,16,0.0,g,20,Herbs and spices
+Miso,10.138,10.11,0.0,g,500a,Dinner products
+Mixed nuts with dried fruit,06.239,14.3,0.0,g,MI0002,Nuts and seed products
+"Moose roast, roasted",03.358,3.10,0.0,g,MI0002,Game meat
+"Moose, chuck, raw",03.504,3.10,0.0,g,400l,Game meat
+"Moose, chuck, roasted",03.505,3.10,0.0,g,MI0002,Game meat
+"Moose, minced, raw",03.501,3.10,0.0,g,400l,Game meat
+"Moose, roasting, raw",03.112,3.10,0.0,g,400l,Game meat
+"Moose, sirloin, raw",03.502,3.10,0.0,g,400l,Game meat
+"Moose, sirloin, roasted",03.503,3.10,0.0,g,MI0002,Game meat
+"Moussaka, with minced meat",03.250,3.7,0.01,g,MI0002,Poultry or meat dishes
+"Mousse, powder base, prepared",10.002,7.3,0.02,g,93,Desserts and ice cream
+"Muesli bar, energy bar, home-made",05.462,5.8,0.01,g,MI0002,Biscuits and cookies
+"Muesli bread, muesli rolls, from cafe/bakery",05.506,5.6.1,0.0,g,MI0002,Other bread products
+"Muesli roll, with brown cheese, from cafe/bakery",05.507,10.9.1,0.0,g,MI0002,Lunch dishes
+"Muesli, with berries, gluten-free, organic, Det Glutenfrie Verksted",05.544,5.3,0.0,g,117c,Breakfast cereals
+"Muesli, with chia seeds, gluten-free, organic, Det Glutenfrie Verksted",05.538,5.3,0.0,g,117c,Breakfast cereals
+"Muesli, with fruit and nuts, Energimüsli",05.235,5.3,0.0,g,210,Breakfast cereals
+"Muesli, with fruit, Fruktmüsli",05.400,5.3,0.0,g,60a,Breakfast cereals
+"Muesli, with fruit, nuts, sweetened",05.238,5.3,0.0,g,400f,Breakfast cereals
+Muffin,05.430,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, banana",05.431,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, banana, with frosting",05.406,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Muffin, blueberries",05.401,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, blueberries, with frosting",05.407,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Muffin, blueberry, industrially made",05.322,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Muffin, carrot",05.450,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, carrot, with frosting",05.451,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Muffin, chocolate",05.404,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, chocolate, with frosting",05.410,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, cocoa",05.402,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, cocoa, with frosting",05.408,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, lemon",05.403,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, lemon, with frosting",05.409,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, prepared from powder, gluten free",05.487,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, prepared from powder, with frosting, gluten-free",05.488,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Muffin, with chocolate chips, industrially made",05.268,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Muffin, with frosting",05.405,5.10,0.02,g,MI0002,Cakes and sweet bakery
+"Multi 0.62 g, Nycoplus",10.136,10.10,0.0,g,114a,Food supplements
+"Multi children, 1.5 g, Nycoplus",10.135,10.10,0.0,g,114a,Food supplements
+"Mung beans, sprouted, raw",06.145,6.2,0.0,g,20,"Vegetables, raw and prepared"
+Mushroom soup,10.208,10.9.4,0.0,g,MI0002,Soups and casseroles
+Mushroom stew,06.864,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Mushroom, chantherelle, raw",06.116,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Mushroom, common, canned, drained",06.063,6.6,0.0,g,460g,Vegetable products
+"Mushroom, common, pan-fried",06.851,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Mushroom, common, raw",06.062,6.2,0.0,g,420h,"Vegetables, raw and prepared"
+"Mushroom, king boletus, yellow boletus, raw",06.198,6.2,0.0,g,410e,"Vegetables, raw and prepared"
+"Mushroom, oyster, raw",06.126,6.2,0.0,g,460f,"Vegetables, raw and prepared"
+"Mushroom, portabello",06.190,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Mushroom, shiitake, raw",06.127,6.2,0.0,g,460f,"Vegetables, raw and prepared"
+"Mushroom, trumpet chanterelle, funnel chanterelle, raw",06.199,6.2,0.0,g,410e,"Vegetables, raw and prepared"
+"Mussel, blue, frozen",04.389,4.3,0.02,g,336,Shellfish
+"Mussel, blue, in brine, drained",04.076,4.3,0.23,g,336,Shellfish
+"Mussel, blue, raw",04.053,4.3,0.31,g,336,Shellfish
+"Mussel, blue, steamed",04.388,4.3,0.33,g,336,Shellfish
+Mustard,12.008,10.7,0.0,g,460g,Miscellaneous ingredients
+Mustard sauce,08.124,8.3,0.0,g,MI0002,Mayonnaise and mayonnaise salads
+Mustard seeds,06.170,16,0.0,g,460g,Herbs and spices
+"Mutton, for stewing, cured, raw",03.031,3.2,0.07,g,319,Lamb
+Mycoprotein,06.781,10.6,0.0,g,137,Vegetarian products and dishes
+"Mâche, salad",06.137,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Nashi, asian pear, raw",06.630,13.2,0.0,g,460g,Fruit
+"Nectar, apple",06.586,9.2,0.0,g,MI0002,Juice and smoothies
+"Nectarine, raw",06.605,13.2,0.0,g,460g,Fruit
+"Nettle, parboiled",06.231,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Noodles, cellophane, glass, cooked",05.524,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Noodles, cellophane, uncooked",05.379,5.2,0.0,g,136,"Grain, rice and pasta"
+"Noodles, cooked",05.522,5.2,0.0,g,622,"Grain, rice and pasta"
+"Noodles, rice, cooked",05.334,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Noodles, rice, uncooked",05.331,5.2,0.0,g,460h,"Grain, rice and pasta"
+"Noodles, wheat, without egg, cooked",05.243,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Noodles, wheat, without egg, uncooked",05.222,5.2,0.0,g,410f,"Grain, rice and pasta"
+"Noodles, whole-grain, cooked",05.520,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Noodles, whole-grain, uncooked",05.523,5.2,0.0,g,410f,"Grain, rice and pasta"
+"Noodles, with egg, uncooked",05.330,5.2,,,10,"Grain, rice and pasta"
+"Noodles, with spices, cooked",05.333,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Nori, seaweed, dried",06.139,6.6,0.0,g,460g,Vegetable products
+"Nut mix, oriental",13.102,14.3,0.0,g,400j,Nuts and seed products
+Nut roast,06.687,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Nut spread, Nugatti",09.009,7.4,0.03,g,207,Sweet spreads
+"Nut spread, less sugar, Nugatti ",09.131,7.4,0.0,g,MI0002,Sweet spreads
+"Nutmeg, ground",06.161,16,0.0,g,460g,Herbs and spices
+Nutritional yeast,10.214,10.7,0.0,g,621,Miscellaneous ingredients
+Oat and almond based beverage,13.122,9.5,0.0,g,232,Plant-based beverages
+Oat based beverage,13.125,9.5,0.0,g,232,Plant-based beverages
+"Oat based beverage, chocolate flavour, with calcium, vitamins (vit D, vitB2, vitB12)",13.101,9.5,0.0,g,400i,Plant-based beverages
+"Oat based beverage, chocolate flavour, with iodine, calcium and vitamins (vit D, vitB2, vitB12)",13.156,9.5,0.0,g,MI0232,Plant-based beverages
+"Oat based beverage, orange and mango flavour",13.103,9.5,0.0,g,400i,Plant-based beverages
+"Oat based beverage, organic",13.121,9.5,0.0,g,232,Plant-based beverages
+"Oat based beverage, with calcium and vitamin D",13.123,9.5,0.0,g,232,Plant-based beverages
+"Oat based beverage, with calcium and vitamins (vit D, vit B2, vit B12) ",13.068,9.5,0.0,g,232,Plant-based beverages
+"Oat based beverage, with iodine, calcium and vitamins (vit D, vit B2, vit B12) ",13.157,9.5,0.0,g,MI0232,Plant-based beverages
+"Oat based beverage, with iodine, calcium, vitamins (vit B2, folat, vit B12, vit D)",13.124,9.5,0.0,g,232,Plant-based beverages
+"Oat bread flour mix, gluten-free, Toro",05.480,5.1,0.0,g,141,Flour
+"Oat porridge, overnight oats ",10.173,5.12,0.0,g,MI0002,Porridge
+"Oat porridge, overnight oats and chia seeds",10.175,5.12,0.0,g,MI0002,Porridge
+"Oat porridge, with milk",10.149,5.12,0.0,g,MI0002,Porridge
+"Oat porridge, with yoghurt, granola and berries, from cafe/bakery",10.196,5.12,0.0,g,MI0002,Porridge
+"Oat porridge, without salt, with milk",01.337,5.12,0.0,g,MI0002,Porridge
+"Oat porridge, without salt, with water",01.338,5.12,0.0,g,MI0002,Porridge
+Oatbran,05.122,5.1,0.0,g,460g,Flour
+Oatmeal,05.004,5.1,0.0,g,MI0232,Flour
+"Oatmeal, organic, Det Glutenfrie Verksted",05.528,5.1,0.0,g,117c,Flour
+"Oil, coconut",08.249,8.2,0.0,g,400i,Oils
+"Oil, corn",08.006,8.2,0.0,g,210,Oils
+"Oil, frying, blend",08.111,8.2,0.0,g,210,Oils
+"Oil, linseed",08.251,8.2,0.0,g,400f,Oils
+"Oil, olive",08.019,8.2,0.0,g,210,Oils
+"Oil, olive, Extra Virgin",08.112,8.2,0.0,g,210,Oils
+"Oil, palm",08.236,8.2,0.0,g,460g,Oils
+"Oil, peanut",08.234,8.2,0.0,g,210,Oils
+"Oil, rapeseed",08.235,8.2,0.0,g,210,Oils
+"Oil, rapeseed and sunflower, Vita",08.114,8.2,0.0,g,116a,Oils
+"Oil, rapeseed, cold pressed, Odelia",08.113,8.2,0.0,g,210,Oils
+"Oil, sesame",08.105,8.2,0.0,g,460g,Oils
+"Oil, soy",08.007,8.2,0.0,g,210,Oils
+"Oil, sunflower",08.106,8.2,0.0,g,210,Oils
+"Oil, walnut",08.250,8.2,0.0,g,460g,Oils
+"Oil, wheatgerm",08.104,8.2,0.0,g,460g,Oils
+"Okra, raw",06.188,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Olives, black, in oil, canned",06.611,6.6,0.0,g,460g,Vegetable products
+"Olives, green, filled with sweet pepper, drained",06.176,6.6,0.0,g,400f,Vegetable products
+"Olives, green, pickled",06.556,6.6,0.0,g,460g,Vegetable products
+"Omelette, fried in fat",02.006,2,0.09,g,MI0002,Egg
+"Omelette, fried without fat",02.007,2,0.1,g,MI0002,Egg
+"Onion soup, gratinated with cheese and bread, home-made",10.165,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Onion soup, home-made",10.164,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Onion, Norwegian, raw",06.042,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Onion, cooked",06.722,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Onion, roasted",06.677,6.6,0.0,g,20,Vegetable products
+"Orange juice, freshly squeezed",06.682,9.2,0.0,g,MI0232,Juice and smoothies
+"Orange juice, from concentrate",06.568,9.2,0.0,g,460g,Juice and smoothies
+Orange marmalade,06.565,13.3,0.0,g,MI0002,Fruit and berries products
+"Orange peel, raw",06.628,13.3,0.0,g,460g,Fruit and berries products
+"Orange, raw",06.520,13.2,0.0,g,460g,Fruit
+"Oregano, dried",06.163,16,0.0,g,460g,Herbs and spices
+"Oyster, common, raw",04.058,4.3,0.21,g,460g,Shellfish
+"Pad Thai, rice noodles and shrimps, industrially made",10.224,4.2,0.0,g,420k,Fish and shellfishes dishes
+"Pancakes, American",05.549,5.9,0.03,g,MI0002,Pancakes and waffles
+"Pancakes, coarse",09.144,5.9,0.02,g,MI0002,Pancakes and waffles
+"Pancakes, fried in fat",05.514,5.9,0.01,g,MI0002,Pancakes and waffles
+"Pancakes, fried without fat",05.515,5.9,0.01,g,MI0002,Pancakes and waffles
+"Pancakes, prepared from powder",05.356,5.9,0.01,g,MI0002,Pancakes and waffles
+"Pancakes, with banana ",10.153,5.9,0.02,g,MI0002,Pancakes and waffles
+"Pancakes, with sweet potato",05.513,5.9,0.05,g,MI0002,Pancakes and waffles
+"Pangasius, raw",04.344,4.1.2,0.01,g,400f,Lean fish
+"Panini, with cheese and ham, from cafe/bakery",05.509,10.9.1,0.0,g,MI0002,Lunch dishes
+Panna cotta,10.141,7.3,0.0,g,MI0002,Desserts and ice cream
+"Papaya, dried",06.625,13.3,0.0,g,400f,Fruit and berries products
+"Papaya, raw",06.606,13.2,0.0,g,460g,Fruit
+Parsley root puree,06.235,6.6,0.0,g,MI0002,Vegetable products
+"Parsley root, Norwegian, raw",06.051,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Parsley root, cooked",06.727,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Parsley, dried",06.167,16,0.0,g,460g,Herbs and spices
+"Parsley, herb, Norwegian, raw",06.050,16,0.0,g,460g,Herbs and spices
+Parsnip puree,06.234,6.6,0.0,g,MI0002,Vegetable products
+"Parsnip, cooked",06.233,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Parsnip, raw",06.049,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Passion fruit juice,06.683,9.2,0.0,g,20,Juice and smoothies
+"Passion fruit, raw",06.581,13.2,0.0,g,460g,Fruit
+Pasta arrabiata,10.227,10.6,0.0,g,MI0002,Vegetarian products and dishes
+Pasta bolognese,03.463,3.7,0.0,g,MI0002,Poultry or meat dishes
+Pasta carbonara,10.226,3.7,0.01,g,MI0002,Poultry or meat dishes
+"Pasta dish, with turkey and cheese sauce, frozen, industrially made",03.313,3.7,0.0,g,209,Poultry or meat dishes
+"Pasta, fresh, filled with cheese, no sauce, Ravioli, industrially made, cooked",05.545,5.2,0.01,g,MI0002,"Grain, rice and pasta"
+"Pasta, fresh, filled with cheese, no sauce, Ravioli, industrially made, uncooked",05.327,5.2,0.01,g,MI0002,"Grain, rice and pasta"
+"Pasta, fresh, filled with meat and cheese, Tortellini, industrially made, cooked ",05.546,5.2,0.01,g,MI0002,"Grain, rice and pasta"
+"Pasta, fresh, filled with meat and cheese, Tortellini, industrially made, uncooked",05.326,5.2,0.01,g,MI0002,"Grain, rice and pasta"
+"Pasta, fresh, filled with meat, Tortellini, industrially made, cooked ",05.547,5.2,0.01,g,MI0002,"Grain, rice and pasta"
+"Pasta, fresh, filled with meat, tortellini, industrially made, uncooked",05.325,5.2,0.01,g,MI0002,"Grain, rice and pasta"
+"Pasta, gluten-free, cooked",05.498,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Pasta, green, fresh, cooked",05.253,5.2,0.01,g,MI0002,"Grain, rice and pasta"
+"Pasta, green, fresh, uncooked",05.227,5.2,0.02,g,MI0002,"Grain, rice and pasta"
+"Pasta, made of corn and rice, gluten-free, uncooked, Barilla",05.421,5.2,0.0,g,20,"Grain, rice and pasta"
+"Pasta, made of rice and vegetables, gluten-free, uncooked, Orgran tricolore",05.423,5.2,0.0,g,20,"Grain, rice and pasta"
+"Pasta, plain, cooked",05.130,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Pasta, plain, fresh, cooked",05.229,5.2,0.01,g,MI0002,"Grain, rice and pasta"
+"Pasta, plain, fresh, uncooked",05.226,5.2,0.02,g,MI0002,"Grain, rice and pasta"
+"Pasta, plain, uncooked",05.016,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Pasta, spaghetti, gluten-free, uncooked, Semper",05.422,5.2,0.0,g,20,"Grain, rice and pasta"
+"Pasta, whole grain, cooked with salt",05.335,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Pasta, whole-grain, uncooked",05.332,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Pasta, with meat sauce, Bolognese, frozen, industrially made",03.314,3.7,0.0,g,209,Poultry or meat dishes
+Pastilles,09.021,7.2,0.0,g,215,Chocolate and sweets
+"Pastilles, without sugar",09.124,7.2,0.0,g,215,Chocolate and sweets
+"Pavlova, with whipped cream and berries",05.411,5.10,0.0,g,MI0002,Cakes and sweet bakery
+Pea puree,06.232,6.6,0.0,g,MI0002,Vegetable products
+"Pea stew, powder base, prepared",10.020,10.11,0.0,g,MI0002,Dinner products
+"Peach, raw",06.532,13.2,0.0,g,460g,Fruit
+"Peaches, canned, in natural juice",06.533,13.3,0.0,g,460g,Fruit and berries products
+"Peaches, canned, in syrup",06.534,13.3,0.0,g,460g,Fruit and berries products
+Peanut butter,06.559,14.3,0.0,g,460g,Nuts and seed products
+"Peanuts, raw",06.557,14.2,0.0,g,460g,Nuts
+"Peanuts, roasted, salted",06.558,14.2,0.01,g,221a,Nuts
+Pear juice,13.155,9.2,0.0,g,MI0232,Juice and smoothies
+"Pear, Norwegian, raw",06.546,13.2,0.0,g,460g,Fruit
+"Pear, imported, raw",06.759,13.2,0.0,g,460f,Fruit
+"Pear, unspecified, raw",06.760,13.2,0.0,g,460f,Fruit
+Pearled barley,05.443,5.2,0.0,g,611a,"Grain, rice and pasta"
+Pearled spelt,05.442,5.2,0.0,g,611a,"Grain, rice and pasta"
+"Pears, canned, in natural juice",06.608,13.3,0.0,g,136,Fruit and berries products
+"Pears, canned, in syrup",06.548,13.3,0.0,g,136,Fruit and berries products
+"Peas, chick peas, canned",06.128,12,0.0,g,460g,Legumes
+"Peas, chick peas, uncooked",06.091,12,0.0,g,460g,Legumes
+"Peas, frozen",06.027,12,0.0,g,460g,Legumes
+"Peas, green, canned, drained",06.028,12,0.0,g,460g,Legumes
+"Peas, sugar-snap, Norwegian, raw",06.031,12,0.0,g,460g,Legumes
+"Peas, yellow, uncooked",06.029,12,0.0,g,460g,Legumes
+Pecan nuts,06.593,14.2,0.0,g,614,Nuts
+Pepper sauce,10.202,10.11,0.0,g,MI0002,Dinner products
+"Pepper, black",12.111,16,0.0,g,460g,Herbs and spices
+"Pepper, cayenne, red",06.165,16,0.0,g,460g,Herbs and spices
+"Pepper, chili, green, raw",06.146,16,0.0,g,460g,Herbs and spices
+"Pepper, chili, red, raw",06.115,16,0.0,g,460g,Herbs and spices
+"Pepper, white",06.166,16,0.0,g,460g,Herbs and spices
+Pepperoni,03.475,3.5,0.0,g,233,Meat products
+"Perch, raw",04.048,4.1.2,0.12,g,400e,Lean fish
+"Periwinkle, common, Norwegian",04.367,4.3,0.01,g,110b,Shellfish
+"Persimmon, kaki fruit, raw",06.767,13.2,0.0,g,460g,Fruit
+"Pesto, green, home-made",06.143,10.11,0.0,g,MI0002,Dinner products
+"Pesto, green, industrially made",06.144,10.11,0.0,g,MI0002,Dinner products
+"Pesto, red, home-made",10.203,10.11,0.0,g,MI0002,Dinner products
+"Pesto, red, industrially made",06.269,10.11,0.0,g,MI0002,Dinner products
+"Pie crust flour mix, gluten-free, organic, powder, Det Glutenfrie Verksted",05.532,5.1,0.0,g,117c,Flour
+"Pie, apple",05.131,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Pie, key lime",10.201,7.3,0.02,g,MI0002,Desserts and ice cream
+"Pike northern, raw",04.006,4.1.2,0.06,g,10,Lean fish
+Pine nuts,06.614,14.1,0.0,g,611a,Seeds
+Pineapple juice,06.775,9.2,0.0,g,460g,Juice and smoothies
+"Pineapple, canned, in natural juice",06.518,13.3,0.0,g,20,Fruit and berries products
+"Pineapple, canned, in syrup",06.519,13.3,0.0,g,20,Fruit and berries products
+"Pineapple, dried",06.205,13.3,0.0,g,410f,Fruit and berries products
+"Pineapple, frozen",06.842,13.2,0.0,g,50,Fruit
+"Pineapple, raw",06.517,13.2,0.0,g,460g,Fruit
+Pistachio nuts,06.668,14.2,0.0,g,611a,Nuts
+"Pistachio nuts, roasted, with salt",06.594,14.2,0.0,g,460g,Nuts
+"Pita bread, white, industrially made",05.188,5.6.1,0.0,g,MI0002,Other bread products
+"Pita bread, white, with iodized salt, industrially made",05.551,5.6.1,0.0,g,MI0002,Other bread products
+"Pita with falafel, salad and dressing",10.222,10.6,0.0,g,420k,Vegetarian products and dishes
+"Pita with kebab, salad and dressing",03.510,3.7,0.0,g,420k,Poultry or meat dishes
+"Pizza crust flour mix, gluten-free, organic, powder, Det Glutenfrie Verksted",05.542,5.1,0.0,g,117c,Flour
+"Pizza crust, no filling",05.062,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Pizza topping, no meat, powder base, prepared",10.034,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, ham, cheddar and mozzarella, industrially made",09.146,10.9.2,0.0,g,60a,Pizza and taco
+"Pizza, ham, home-made",09.168,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, ham, pepperoni and minced meat, industrially made",09.150,10.9.2,0.0,g,60a,Pizza and taco
+"Pizza, ham, sweet pepper and Jarlsberg cheese, industrially made",09.145,10.9.2,0.0,g,60a,Pizza and taco
+"Pizza, industrially made",09.153,10.9.2,0.0,g,60a,Pizza and taco
+"Pizza, minced meat (6 % fat), home-made",10.182,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, minced meat and onion, industrially made",09.148,10.9.2,0.0,g,60a,Pizza and taco
+"Pizza, minced meat, home-made",09.166,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, minced plant-based, home-made",10.183,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, mozzarella and tomatoes, industrially made",09.151,10.9.2,0.0,g,60a,Pizza and taco
+"Pizza, mozzarella, ham, sausage and champignon, industrially made",09.147,10.9.2,0.0,g,60a,Pizza and taco
+"Pizza, parma, home-made",09.165,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, pepperoni, home-made",10.181,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, pepperoni, sausage, jalapeño and cheese, industrially made",09.152,10.9.2,0.0,g,60a,Pizza and taco
+"Pizza, tomato sauce and cheese, hjemmelaget",06.734,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, vegan, home-made",10.184,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, vegetarian, home-made",09.167,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, white, créme fraîche and spinach, home-made",10.220,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, white, cured ham, home-made",10.219,10.9.2,0.0,g,MI0002,Pizza and taco
+"Pizza, white, pear and blue mold cheese, home-made",10.221,10.9.2,0.0,g,MI0002,Pizza and taco
+"Plaice, filled, breaded, pre-fried, fried in fat",04.279,4.1.2,0.12,g,MI0002,Lean fish
+"Plaice, filled, breaded, pre-fried, roasted without fat",04.278,4.1.2,0.13,g,MI0002,Lean fish
+"Plaice, filled, pre-fried, frozen ",04.200,4.1.2,0.12,g,MI0002,Lean fish
+"Plaice, fillet, rolled in breadcrumbs, fried in fat",04.233,4.1.2,0.27,g,MI0002,Lean fish
+"Plaice, fillet, rolled in breadcrumbs, raw",04.068,4.1.2,0.28,g,MI0002,Lean fish
+"Plaice, fillet, rolled in flour, fried in fat",04.232,4.1.2,0.38,g,MI0002,Lean fish
+"Plaice, fillet, simmered",04.231,4.1.2,0.41,g,MI0002,Lean fish
+"Plaice, raw",04.005,4.1.2,0.38,g,321d,Lean fish
+"Plaintain, raw",06.623,13.2,0.0,g,460g,Fruit
+Plant-based balls,06.836,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based balls, pea protein",06.829,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based balls, potato and lentils",06.822,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based balls, soy protein",06.823,10.6,0.0,g,232,Vegetarian products and dishes
+Plant-based burger,06.833,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based burger, potato and lentils",06.820,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based burger, soy protein",06.819,10.6,0.0,g,232,Vegetarian products and dishes
+Plant-based grill sausage,06.835,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based grill sausage, sunflower protein",06.827,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based grill sausage, vegetables and potato",06.821,10.6,0.0,g,232,Vegetarian products and dishes
+Plant-based minced,06.837,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based minced, pea protein",06.830,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based minced, soy protein",06.678,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based minced, soy protein and wheat",06.826,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based product, used as cheese",06.691,10.6,0.0,g,233,Vegetarian products and dishes
+"Plant-based product, used as cheese, shredded",06.690,10.6,0.0,g,233,Vegetarian products and dishes
+"Plant-based product, used as cream cheese, oat based",06.267,10.6,0.0,g,410f,Vegetarian products and dishes
+"Plant-based product, used as ham",10.213,10.6,0.0,g,234,Vegetarian products and dishes
+"Plant-based product, used as yoghurt, soy based, with calcium and vitamins (vit D, vit B12)",06.868,10.6,0.0,g,400m,Vegetarian products and dishes
+"Plant-based product, used as yoghurt, soy based, with flavour, with calcium and vitamins (vit D, riboflavin, vit B12)",06.867,10.6,0.0,g,400m,Vegetarian products and dishes
+"Plant-based sausage, soy protein",06.834,10.6,0.0,g,232,Vegetarian products and dishes
+"Plant-based schnitzel, soy and wheat protein",06.684,10.6,0.0,g,400j,Vegetarian products and dishes
+Plum jam,06.812,13.3,0.0,g,MI0002,Fruit and berries products
+"Plums, canned, in syrup",06.545,13.3,0.0,g,MI0002,Fruit and berries products
+"Plums, raw",06.544,13.2,0.0,g,460g,Fruit
+"Pollack, raw",04.021,4.1.2,0.04,g,321d,Lean fish
+"Pomegranate, frozen",06.845,13.1,0.0,g,MI0232,Berries
+"Pomegranate, raw",06.596,13.2,0.0,g,460g,Fruit
+"Pomelo, raw",06.771,13.2,0.0,g,460g,Fruit
+"Ponzu sauce, home-made",10.204,10.11,0.0,g,MI0002,Dinner products
+"Popcorn, air popped, industrially made",12.012,10.5,0.0,g,460g,Snacks
+"Popcorn, air popped, micro pop",12.028,10.5,0.0,g,621,Snacks
+Poppy seeds,06.173,14.1,0.0,g,460g,Seeds
+"Porbeagle, mackerel shark, raw",04.116,4.1.2,0.07,g,321d,Lean fish
+"Pork and beef, minced meat, raw",03.128,3.8,0.01,g,MI0002,Minced meat
+"Pork loin, smoked",03.105,3.4,0.01,g,MI0002,Pork
+"Pork patties, fried",03.135,3.5,0.0,g,MI0002,Meat products
+"Pork roast with sauerkraut and potatoes, ready to eat, industrially made",09.137,3.7,0.0,g,MI0002,Poultry or meat dishes
+Pork scratchings,12.015,10.5,0.0,g,221b,Snacks
+"Pork, bacon, side bacon, pan-fried",03.509,3.4,0.0,g,MI0002,Pork
+"Pork, bottom round, boiled",03.490,3.4,0.01,g,MI0002,Pork
+"Pork, inside round, raw",03.208,3.4,0.01,g,332,Pork
+"Pork, inside round, roasted without fat",03.272,3.4,0.01,g,MI0002,Pork
+"Pork, minced meat, 9 % fat, raw",03.348,3.8,0.0,g,332,Minced meat
+"Pork, minced meat, fried without fat",03.141,3.8,0.0,g,MI0002,Minced meat
+"Pork, neck chops, raw",03.083,3.4,0.01,g,332,Pork
+"Pork, neck chops, roasted without fat",03.274,3.4,0.02,g,MI0002,Pork
+"Pork, rib, side bacon, raw",03.090,3.4,0.0,g,60b,Pork
+"Pork, roll, sliced",03.353,3.5,0.0,g,214,Meat products
+"Pork, silverside, raw",03.493,3.4,0.0,g,332,Pork
+"Pork, striploin, raw",03.210,3.4,0.0,g,332,Pork
+"Pork, striploin, roasted without fat",03.496,3.4,0.0,g,MI0002,Pork
+"Pork, tenderloin, loinback, boiled",03.494,3.4,0.0,g,MI0002,Pork
+"Pork, tenderloin, loinback, raw",03.086,3.4,0.0,g,332,Pork
+"Pork, tenderloin, loinback, roasted without fat",03.495,3.4,0.0,g,MI0002,Pork
+"Pork, tenderloin, raw",03.209,3.4,0.0,g,332,Pork
+"Pork, tenderloin, roasted without fat",03.492,3.4,0.0,g,MI0002,Pork
+"Porridge, prepared with barley and milk",10.172,5.12,0.0,g,MI0002,Porridge
+"Porridge, prepared with oats and water",05.127,5.12,0.0,g,MI0002,Porridge
+"Porridge, prepared with oats, buck wheat and milk, gluten-free",10.176,5.12,0.0,g,MI0002,Porridge
+"Porridge, prepared with rice and low fat milk",05.128,5.12,0.0,g,MI0002,Porridge
+"Porridge, prepared with rice and whole milk",05.245,5.12,0.0,g,MI0002,Porridge
+"Porridge, prepared with semolina and milk",10.152,5.12,0.0,g,MI0002,Porridge
+"Porridge, prepared with sour cream, Rømmegrøt",01.195,5.12,0.0,g,MI0002,Porridge
+"Porridge, prepared with wheat, milk and butter",10.151,5.12,0.0,g,MI0002,Porridge
+"Potato and leek soup, home-made",10.167,10.9.4,0.0,g,MI0002,Soups and casseroles
+Potato crisps,06.007,10.5,0.0,g,221a,Snacks
+"Potato crisps, fat reduced",06.082,10.5,0.0,g,221b,Snacks
+"Potato flatbread, soft, lompe",05.084,5.6.1,0.0,g,MI0002,Other bread products
+"Potato salad, with fat reduced mayonnaise",08.021,15.2,0.01,g,MI0002,Potato products
+"Potato salad, with low-fat sour cream",08.203,15.2,0.0,g,MI0002,Potato products
+"Potato salad, with mayonnaise",08.012,15.2,0.01,g,MI0002,Potato products
+"Potato salad, with sour cream",08.204,15.2,0.0,g,MI0002,Potato products
+"Potato snacks, extruded",06.009,10.5,0.0,g,420c,Snacks
+Potato starch,05.020,5.1,0.0,g,50,Flour
+"Potato, carrot, celeriac root, swede, leek, frozen",06.863,6.6,0.0,g,MI0002,Vegetable products
+"Potatoes, French fries, frozen",06.006,15.2,0.0,g,MI0002,Potato products
+"Potatoes, autumn, boiled",06.262,15.1,0.0,g,MI0002,"Potatoes, raw and prepared"
+"Potatoes, autumn, boiled, salted water",06.263,15.1,0.0,g,MI0002,"Potatoes, raw and prepared"
+"Potatoes, autumn, raw",06.003,15.1,0.0,g,460g,"Potatoes, raw and prepared"
+"Potatoes, baked",06.274,15.1,0.0,g,MI0002,"Potatoes, raw and prepared"
+"Potatoes, canned, drained",06.005,15.2,0.0,g,460g,Potato products
+"Potatoes, early, boiled",06.264,15.1,0.0,g,MI0002,"Potatoes, raw and prepared"
+"Potatoes, early, boiled, salted water",06.265,15.1,0.0,g,MI0002,"Potatoes, raw and prepared"
+"Potatoes, early, raw",06.001,15.1,0.0,g,460g,"Potatoes, raw and prepared"
+"Potatoes, gratinated with cream",06.670,15.2,0.0,g,MI0002,Potato products
+"Potatoes, instant, mashed, powder with milk",10.124,15.2,0.0,g,460g,Potato products
+"Potatoes, mashed, home-made",06.223,15.2,0.0,g,MI0002,Potato products
+"Potatoes, mashed, prepared from powder, without milk",06.008,15.2,0.0,g,MI0002,Potato products
+"Potatoes, spring, from Cyprus, raw",06.739,15.1,0.0,g,460g,"Potatoes, raw and prepared"
+"Potatoes, storage, boiled",06.096,15.1,0.0,g,MI0002,"Potatoes, raw and prepared"
+"Potatoes, storage, boiled, salted water",06.095,15.1,0.0,g,MI0002,"Potatoes, raw and prepared"
+"Potatoes, storage, raw",06.004,15.1,0.0,g,460g,"Potatoes, raw and prepared"
+"Powan, raw",04.030,4.1.2,0.11,g,400e,Lean fish
+"Prickly pear, raw",06.599,13.2,0.0,g,460g,Fruit
+Prune juice,13.149,9.2,0.0,g,20,Juice and smoothies
+Prunes,06.552,13.3,0.0,g,610,Fruit and berries products
+Psyllium husk,05.465,14.1,0.0,g,400i,Seeds
+"Ptarmigan, meat, raw",03.008,3.10,0.0,g,20,Game meat
+"Ptarmigan, meat, roasted",03.249,3.10,0.0,g,MI0002,Game meat
+"Pudding, caramel, home-made",10.174,7.3,0.03,g,MI0002,Desserts and ice cream
+"Pudding, caramel, industrially made",01.078,7.3,0.0,g,114a,Desserts and ice cream
+"Pudding, chia",10.180,7.3,0.0,g,MI0002,Desserts and ice cream
+"Pudding, chocolate, industrially made",01.020,7.3,0.0,g,114a,Desserts and ice cream
+"Pudding, chocolate, powder base, prepared",10.006,7.3,0.0,g,MI0002,Desserts and ice cream
+"Pudding, milk, almond flavour, industrially made",01.131,7.3,0.0,g,114a,Desserts and ice cream
+Puff pastry,10.130,10.7,0.0,g,136,Miscellaneous ingredients
+Puffed oats,05.037,5.3,0.0,g,136,Breakfast cereals
+"Puffed oats, Havrefras",05.237,5.3,0.0,g,622,Breakfast cereals
+Puffed rice,05.039,5.3,0.0,g,460g,Breakfast cereals
+"Puffed wheat, with sugar and honey, Honni Korn",05.036,5.3,0.0,g,MI0002,Breakfast cereals
+"Pumpernickel, extra coarse (75-100 %), rye bread, industrially made",05.184,5.6.2,0.0,g,460g,Extra coarse bread
+"Pumpkin soup, home-made",10.159,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Pumpkin, butternut, raw",06.210,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Pumpkin, hokkaido, raw",06.209,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Pumpkin, raw",06.033,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Purslane, raw",06.261,6.2,0.0,g,20,"Vegetables, raw and prepared"
+"Quark, 1 % fat",01.036,1.4.6,0.0,g,114a,Fresh cheese
+"Quark, 7 % fat",01.226,1.4.6,0.0,g,114a,Fresh cheese
+"Quiche, with cheese and ham",03.261,10.9.1,0.02,g,MI0002,Lunch dishes
+Quinoa flour,05.527,5.1,0.0,g,117c,Flour
+"Quinoa, black, cooked",05.458,14.1,0.0,g,MI0002,Seeds
+"Quinoa, black, uncooked",06.665,14.1,0.0,g,611a,Seeds
+"Quinoa, cooked",06.616,14.1,0.0,g,MI0002,Seeds
+"Quinoa, red, cooked",05.457,14.1,0.0,g,MI0002,Seeds
+"Quinoa, red, uncooked",06.664,14.1,0.0,g,611a,Seeds
+"Quinoa, uncooked",06.615,14.1,0.0,g,611a,Seeds
+"Quinoa, white, cooked",05.456,14.1,0.0,g,MI0002,Seeds
+"Quinoa, white, uncooked",06.663,14.1,0.0,g,611a,Seeds
+"Rabbit, raw",03.044,3.10,0.0,g,460g,Game meat
+"Radish, Norwegian, raw",06.054,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Raisins,06.549,13.3,0.0,g,701G,Fruit and berries products
+"Rambutan, raw",06.631,13.2,,,10,Fruit
+"Raspberries, frozen",06.841,13.1,0.0,g,MI0232,Berries
+"Raspberries, raw",06.503,13.1,0.0,g,460g,Berries
+Raspberry jam,06.801,13.3,0.0,g,MI0002,Fruit and berries products
+"Raspberry jam, frozen",06.798,13.3,0.0,g,MI0002,Fruit and berries products
+"Raspberry jam, with less sugar",06.799,13.3,0.0,g,MI0002,Fruit and berries products
+"Raspberry jam, without added sugar",06.800,13.3,0.0,g,MI0002,Fruit and berries products
+Raspberry mousse,10.187,7.3,0.0,g,MI0002,Desserts and ice cream
+Redcurrant jam,06.240,13.3,0.0,g,MI0002,Fruit and berries products
+"Redcurrants, raw",06.512,13.1,0.0,g,460g,Berries
+"Redfish, cured, raw",04.046,4.1.2,0.44,g,136,Lean fish
+"Redfish, cured, slices, simmered",04.261,4.1.2,0.66,g,MI0002,Lean fish
+"Redfish, fillet, simmered",04.266,4.1.2,0.37,g,MI0002,Lean fish
+"Redfish, raw",04.045,4.1.2,0.25,g,321d,Lean fish
+"Reindeer, meat in slices, raw, frozen",03.351,3.10,0.01,g,322,Game meat
+"Reindeer, meat, cold smoked",03.500,3.10,0.0,g,20,Game meat
+"Reindeer, meat, raw, dried",03.352,3.10,0.02,g,322,Game meat
+"Reindeer, meat, smoked",03.260,3.10,0.0,g,322,Game meat
+"Reindeer, meat, warm smoked",03.499,3.10,0.0,g,MI0232,Game meat
+"Reindeer, roasting, raw",03.498,3.10,0.0,g,20,Game meat
+"Reindeer, shoulder, roasting, raw",03.115,3.10,0.0,g,322,Game meat
+Remoulade,08.013,8.3,0.02,g,116a,Mayonnaise and mayonnaise salads
+Rhubarb jam,06.813,13.3,0.0,g,MI0002,Fruit and berries products
+Rhubarb porridge,10.154,7.3,0.0,g,MI0002,Desserts and ice cream
+Rhubarb soup,09.161,7.3,0.0,g,MI0002,Desserts and ice cream
+"Rhubarb, raw",06.053,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Rice based beverage,13.100,9.5,0.0,g,20,Plant-based beverages
+"Rice cake, with salt",05.193,5.7,0.0,g,460g,Crisp bread and flatbread
+"Rice cake, without salt",05.194,5.7,0.0,g,460g,Crisp bread and flatbread
+Rice cream,10.142,7.3,0.0,g,MI0002,Desserts and ice cream
+"Rice cream, with strawberries, Rislunsj",01.184,7.3,0.0,g,114a,Desserts and ice cream
+Rice flour,05.223,5.1,0.0,g,141,Flour
+"Rice flour, whole grain, organic, Det Glutenfrie Verksted",05.525,5.1,0.0,g,117c,Flour
+Rice paper,05.550,10.7,0.0,g,20,Miscellaneous ingredients
+"Rice, Basmati, cooked",05.337,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Rice, Basmati, uncooked",05.305,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Rice, Jasmin, cooked",05.338,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Rice, Jasmin, uncooked",05.306,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Rice, arborio, risotto rice, uncooked",05.384,5.2,0.0,g,400f,"Grain, rice and pasta"
+"Rice, brown, long-grain, cooked",05.255,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Rice, brown, long-grain, uncooked",05.021,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Rice, cooked, with salt",05.336,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Rice, sushi rice, cooked",05.521,5.2,0.0,g,MI0232,"Grain, rice and pasta"
+"Rice, white, for porridge, pre-boiled, uncooked",05.307,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Rice, white, long-grain, cooked",05.289,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Rice, white, long-grain, uncooked",05.212,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Rice, white, parboiled, long-grain, cooked",05.125,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Rice, white, parboiled, long-grain, uncooked",05.022,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Rice, white, pre-boiled with 1 % salt, uncooked",05.304,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Rice, white, pre-boiled, cooked",05.254,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Rice, white, pre-boiled, uncooked",05.024,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Rice, white, short-grain, for porridge, uncooked",05.023,5.2,0.0,g,460f,"Grain, rice and pasta"
+"Rice, wild rice, cooked",05.340,5.2,0.0,g,MI0002,"Grain, rice and pasta"
+"Rice, wild rice, uncooked",05.339,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Roast beef, cold cuts, sliced",03.354,3.5,0.0,g,MI0002,Meat products
+"Roe deer, meat, raw",03.362,3.10,0.0,g,460g,Game meat
+"Roe paste, canned",04.101,4.4,4.11,g,208,Fish products
+"Roll, white, with chicken and pesto, from cafe/bakery",05.511,10.9.1,0.0,g,MI0002,Lunch dishes
+"Roll, with cheese and ham, from cafe/bakery",05.512,10.9.1,0.0,g,MI0002,Lunch dishes
+Rolled oats,05.003,5.2,0.0,g,231,"Grain, rice and pasta"
+"Rolled oats, organic",05.497,5.2,0.0,g,231,"Grain, rice and pasta"
+"Rolls flour mix, gluten-free, organic, powder, Det Glutenfrie Verksted",05.540,5.1,0.0,g,117c,Flour
+"Rolls, coarse, 50 % wholemeal flour, skimmed milk",05.066,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Rolls, coarse, 50 % wholemeal flour, water",05.302,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Rolls, coarse, 75 % wholemeal flour, skimmed milk",05.067,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Rolls, coarse, 75 % wholemeal flour, water",05.301,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Rolls, coarse, bake-off, ready-to-eat",05.215,5.6.1,0.0,g,204,Other bread products
+"Rolls, coarse, home-made",05.453,5.5.1,0.01,g,MI0002,"Other bread products, home-made"
+"Rolls, coarse, industrially made",05.271,5.6.1,0.0,g,MI0002,Other bread products
+"Rolls, coarse, with iodized salt, industrially made",05.553,5.6.1,0.0,g,MI0002,Other bread products
+"Rolls, fibre, gluten-free, industrially made",05.493,5.6.1,0.0,g,MI0002,Other bread products
+"Rolls, prepared from powder, coarse, gluten free",05.490,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Rolls, white, 100 % wheat flour, skimmed milk",05.206,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Rolls, white, 100 % wheat flour, water",05.300,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Rolls, white, bake-off, ready-to-eat",05.216,5.6.1,0.0,g,MI0002,Other bread products
+"Rolls, white, gluten-free, industrially made",05.492,5.6.1,0.0,g,MI0002,Other bread products
+"Rolls, white, home-made",05.452,5.5.1,0.01,g,MI0002,"Other bread products, home-made"
+"Rolls, white, industrially made",05.064,5.6.1,0.0,g,MI0002,Other bread products
+"Rolls, white, with iodized salt, bake-off",05.552,5.6.1,0.0,g,MI0002,Other bread products
+"Rolls, with pizza filling",05.444,10.9.1,0.0,g,MI0002,Lunch dishes
+Romaine lettuce,06.138,6.2,0.0,g,420h,"Vegetables, raw and prepared"
+Rosehip jam,06.811,13.3,0.0,g,MI0002,Fruit and berries products
+"Rosehip soup powder, dry",06.511,13.3,0.0,g,136,Fruit and berries products
+"Rosehip, raw",06.772,13.2,0.0,g,460f,Fruit
+"Rosemary, dried",06.169,16,0.0,g,460g,Herbs and spices
+"Rosemary, raw",06.168,16,0.0,g,460g,Herbs and spices
+"Rowan-berries, raw",06.773,13.1,0.0,g,460g,Berries
+Rusk,05.073,5.7,0.0,g,MI0002,Crisp bread and flatbread
+"Rusk, white, sweet",05.192,5.8,0.0,g,MI0002,Biscuits and cookies
+Rye flour,05.027,5.1,0.0,g,231,Flour
+"Rye flour, wholemeal",05.026,5.1,0.0,g,231,Flour
+Saffron buns,05.428,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Saffron, dried",06.189,16,0.0,g,460g,Herbs and spices
+"Saithe, breaded, industrially made",04.351,4.4,0.2,g,223a,Fish products
+"Saithe, fillet, rolled in breadcrumbs, fried in fat",04.241,4.1.2,0.19,g,MI0002,Lean fish
+"Saithe, fillet, rolled in breadcrumbs, raw",04.069,4.1.2,0.19,g,MI0002,Lean fish
+"Saithe, fillet, rolled in flour, fried in fat",04.320,4.1.2,0.32,g,MI0002,Lean fish
+"Saithe, fillet, rolled in flour, with fried onion, frozen, industrially made",04.071,4.1.2,0.17,g,MI0002,Lean fish
+"Saithe, fillet, rolled in flour, with onion, fried in fat",04.280,4.1.2,0.21,g,MI0002,Lean fish
+"Saithe, in oil, canned, drained",04.286,4.4,0.22,g,MI0002,Fish products
+"Saithe, raw",04.029,4.1.2,0.25,g,321f,Lean fish
+"Saithe, simmered",04.236,4.1.2,0.38,g,MI0002,Lean fish
+Salad Nicoise,06.201,10.9.3,0.1,g,MI0002,Salads
+"Salad dressing, mayonnaise, 15 % fat",08.125,8.3,0.01,g,MI0002,Mayonnaise and mayonnaise salads
+"Salad dressing, mayonnaise, 30 % fat",08.126,8.3,0.02,g,MI0002,Mayonnaise and mayonnaise salads
+"Salad dressing, mayonnaise, 55 % fat",08.127,8.3,0.01,g,MI0002,Mayonnaise and mayonnaise salads
+"Salad dressing, no fat",08.017,8.3,0.0,g,136,Mayonnaise and mayonnaise salads
+"Salad dressing, oil and vinegar, French",08.201,8.3,0.0,g,MI0002,Mayonnaise and mayonnaise salads
+Salad with shrimps and crawfish,08.259,8.3,0.07,g,MI0002,Mayonnaise and mayonnaise salads
+"Salad, little gem, raw",06.207,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Salad, rocket, raw",06.100,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Salad, with chicken and feta cheese, from cafe/bakery",10.205,10.9.3,0.0,g,MI0002,Salads
+"Salmon fillet, dry salted, with sugar and spices",04.255,4.1.1,0.4,g,70,Fatty fish
+"Salmon spread, 70 % salmon, industrially made",04.330,4.4,0.58,g,MI0002,Fish products
+"Salmon spread, with spring onion and lemon",04.375,4.4,0.3,g,115b,Fish products
+"Salmon, farmed, raw",04.220,4.1.1,0.7,g,321f,Fatty fish
+"Salmon, farmed, slices, rolled in flour, fried in fat",04.226,4.1.1,0.61,g,MI0002,Fatty fish
+"Salmon, farmed, slices, simmered",04.225,4.1.1,0.58,g,MI0002,Fatty fish
+"Salmon, fillet, pan-fried",04.343,4.1.1,0.68,g,MI0002,Fatty fish
+"Salmon, fillet, roasted",04.342,4.1.1,0.61,g,MI0002,Fatty fish
+"Salmon, ocean, raw",04.015,4.1.1,0.79,g,216,Fatty fish
+"Salmon, ocean, simmered",04.224,4.1.1,0.66,g,MI0002,Fatty fish
+"Salmon, smoked",04.018,4.1.1,0.64,g,70,Fatty fish
+"Salsify, black, raw",06.110,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Salt, herbal",12.024,10.7,0.0,g,136,Miscellaneous ingredients
+"Salt, mineral",12.023,10.7,0.0,g,50,Miscellaneous ingredients
+"Salt, sea",12.026,10.7,0.0,g,50,Miscellaneous ingredients
+"Salt, table",12.022,10.7,0.0,g,50,Miscellaneous ingredients
+"Salt, table, iodized",12.025,10.7,0.0,g,50,Miscellaneous ingredients
+Salted sticks,12.014,10.5,0.0,g,621,Snacks
+"Sashimi, halibut, Atlantic",04.332,4.2,0.35,g,216,Fish and shellfishes dishes
+"Sashimi, salmon",04.331,4.2,0.7,g,321f,Fish and shellfishes dishes
+"Sashimi, tuna",04.333,4.2,0.24,g,400e,Fish and shellfishes dishes
+"Sauce for dipping, sweet & sour, BBQ sauce, industrially made",10.125,10.11,0.0,g,460g,Dinner products
+"Sauce, Bernaise, powder base, prepared",10.015,10.11,0.0,g,MI0002,Dinner products
+"Sauce, bernaise, home-made",10.171,10.11,0.03,g,MI0002,Dinner products
+"Sauce, brown with onion, powder base, prepared",10.025,10.11,0.0,g,136,Dinner products
+"Sauce, brown, from cube, prepared",10.016,10.11,0.0,g,MI0002,Dinner products
+"Sauce, brown, powder base, prepared",10.017,10.11,0.0,g,MI0002,Dinner products
+"Sauce, béchamel, powder base, prepared",10.018,10.11,0.0,g,MI0002,Dinner products
+"Sauce, caramel",12.010,7.3,0.0,g,50,Desserts and ice cream
+"Sauce, chocolate, industrially made",12.011,7.3,0.0,g,460g,Desserts and ice cream
+"Sauce, fruit, powder base, prepared",10.001,7.3,0.0,g,MI0002,Desserts and ice cream
+"Sauce, gravy, powder base, prepared",10.019,10.11,0.0,g,MI0002,Dinner products
+"Sauce, vanilla, powder base, prepared",10.007,7.3,0.0,g,MI0002,Desserts and ice cream
+"Sauce, venison, powder base, prepared",10.026,10.11,0.0,g,MI0002,Dinner products
+Sauerkraut,06.078,6.6,0.0,g,50,Vegetable products
+"Sausage spread, pork, high fat content",03.153,3.5,0.0,g,MI0002,Meat products
+"Sausage, Frankfurter/Wiener",03.150,3.5,0.0,g,228a,Meat products
+"Sausage, Frankfurter/Wiener, lean",03.198,3.5,0.01,g,228a,Meat products
+"Sausage, Frankfurter/Wiener, turkey and chicken",03.451,3.5,0.01,g,228a,Meat products
+"Sausage, Swedish, Falukorv",03.152,3.5,0.0,g,MI0002,Meat products
+"Sausage, bologna",03.164,3.5,0.0,g,60a,Meat products
+"Sausage, bologna, lean",03.202,3.5,0.0,g,227b,Meat products
+"Sausage, chicken and turkey, lean",03.356,3.5,0.01,g,MI0002,Meat products
+"Sausage, chicken and turkey, with cheese",03.361,3.5,0.0,g,MI0002,Meat products
+"Sausage, chorizo",03.363,3.5,0.0,g,136,Meat products
+"Sausage, cocktail",03.149,3.5,0.0,g,MI0002,Meat products
+"Sausage, cured, Morr",03.159,3.5,0.0,g,214,Meat products
+"Sausage, fermented, Stabbur",03.166,3.5,0.0,g,MI0002,Meat products
+"Sausage, grill",03.144,3.5,0.0,g,228a,Meat products
+"Sausage, grill, lean",03.199,3.5,0.0,g,228a,Meat products
+"Sausage, grill, turkey and chicken",03.318,3.5,0.0,g,228a,Meat products
+"Sausage, grill, with cheese",03.357,3.5,0.0,g,MI0002,Meat products
+"Sausage, knakkpølse",03.147,3.5,0.0,g,MI0002,Meat products
+"Sausage, meat, industrially made",03.145,3.5,0.0,g,228a,Meat products
+"Sausage, meat, lean",03.146,3.5,0.0,g,MI0002,Meat products
+"Sausage, mutton, smoked",03.154,3.5,0.0,g,60a,Meat products
+"Sausage, pork, smoked and unsmoked",03.148,3.5,0.0,g,MI0002,Meat products
+"Sausage, reindeer",03.162,3.5,0.02,g,MI0002,Meat products
+"Sausage, salami",03.163,3.5,0.0,g,60a,Meat products
+"Sausage, salami, 22 % fat",03.426,3.5,0.0,g,60a,Meat products
+"Sausage, salami, 38 % fat",03.425,3.5,0.0,g,60a,Meat products
+"Sausage, salami, Danish",03.507,3.5,0.0,g,60a,Meat products
+"Sausage, salami, lean",03.428,3.5,0.0,g,60a,Meat products
+"Sausage, salsiccia",03.364,3.5,0.0,g,400j,Meat products
+"Sausage, soy, canned",06.703,10.6,0.0,g,136,Vegetarian products and dishes
+"Sausages, with bun",03.467,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Scallion, spring onion, raw",06.113,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Scallop, fried",04.264,4.3,0.04,g,MI0002,Shellfish
+"Scallop, raw",04.114,4.3,0.03,g,336,Shellfish
+"Schnitzel, chicken, with cheese, breaded, raw",03.321,3.5,0.0,g,MI0002,Meat products
+Schwarzwald ham,03.513,3.5,0.0,g,420k,Meat products
+"Scones, coarse, gluten-free",05.489,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Scones, coarse, with milk",05.413,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Scones, coarse, with yoghurt",05.414,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Scones, white, gluten free",05.485,5.5.1,0.0,g,MI0002,"Other bread products, home-made"
+"Sea buckthorn, raw",06.624,13.1,0.0,g,400f,Berries
+"Seitan, wheat gluten",06.686,10.6,0.0,g,329,Vegetarian products and dishes
+"Semolina, wheat meal",05.029,5.2,0.0,g,460g,"Grain, rice and pasta"
+Serrano ham,03.512,3.5,0.0,g,420k,Meat products
+"Sesame paste, tahini",06.702,10.6,0.0,g,136,Vegetarian products and dishes
+"Sesame seeds, with shell",05.030,14.1,0.0,g,611a,Seeds
+"Sesame seeds, without shell",05.147,14.1,0.0,g,611a,Seeds
+"Shallot, raw",06.124,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Shephards' pie,03.465,3.7,0.0,g,MI0002,Poultry or meat dishes
+Sherbet,09.110,7.3,0.0,g,MI0002,Desserts and ice cream
+"Shrimp salad, mayonnaise salad",08.123,8.3,0.02,g,117a,Mayonnaise and mayonnaise salads
+"Shrimp, battered, pre-fried, fried in fat",04.277,4.3,0.0,g,MI0002,Shellfish
+"Shrimp, battered, pre-fried, frozen",04.207,4.3,0.01,g,460g,Shellfish
+"Shrimps, boiled",04.057,4.3,0.15,g,MI0002,Shellfish
+"Shrimps, in brine, drained",04.098,4.3,0.13,g,336,Shellfish
+"Shrimps, raw",04.387,4.3,0.17,g,336,Shellfish
+"Skate (ray), raw",04.119,4.1.2,0.02,g,321d,Lean fish
+"Slush, with strawberries",06.249,9.2,0.0,g,MI0002,Juice and smoothies
+"Slush, with water melon",06.250,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoked picnic shoulder, Bayonne",03.103,3.5,0.0,g,MI0002,Meat products
+"Smoothie mix, banana, kale, mango and ginger, frozen",06.858,13.3,0.0,g,MI0002,Fruit and berries products
+"Smoothie mix, pineapple, mango and banana, frozen",06.860,13.3,0.0,g,MI0002,Fruit and berries products
+"Smoothie mix, pineapple, melon, banana, frozen",06.859,13.3,0.0,g,MI0002,Fruit and berries products
+"Smoothie mix, pineapple, papaya and mango, frozen",06.857,13.3,0.0,g,MI0002,Fruit and berries products
+"Smoothie mix, raspberries, blueberries and banana, frozen",06.861,13.3,0.0,g,MI0002,Fruit and berries products
+"Smoothie mix, strawberries and banana, frozen",06.862,13.3,0.0,g,MI0002,Fruit and berries products
+"Smoothie mix, strawberries, banana and blueberries, frozen",06.855,13.3,0.0,g,MI0002,Fruit and berries products
+"Smoothie mix, strawberries, raspberries and banana, frozen",06.856,13.3,0.0,g,MI0002,Fruit and berries products
+"Smoothie, avocado and mango, from cafe/bakery",13.145,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, blueberries and apple",13.107,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, blueberries and raspberries",13.118,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, fruit juice, banana and berries",13.062,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, green",13.163,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, guava and gojiberries",13.109,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, mango and gojiberries",13.113,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, mango and orange",13.117,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, mango and passion fruit",13.111,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, orange, carrot and ginger",13.119,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, pineapple and coconut",13.105,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, pineapple and ginger",13.112,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, pineapple and mango",13.106,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, raspberries and strawberries",13.104,9.2,0.0,g,MI0002,Juice and smoothies
+"Smoothie, yogurt, juice, banana and berries",13.061,9.2,0.0,g,MI0002,Juice and smoothies
+"Snails, canned",04.258,4.3,0.1,g,136,Shellfish
+"Snow crab, boiled",04.391,4.3,0.09,g,MI0002,Shellfish
+"Snow crab, raw",04.390,4.3,0.1,g,336,Shellfish
+"Snow crab, roasted",04.392,4.3,0.12,g,MI0002,Shellfish
+Snowball,09.111,7.2,0.0,g,MI0002,Chocolate and sweets
+Snowball cake,05.439,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Soda, Bitter Lemon",13.044,9.4,0.0,g,50,Soft drink and energy drink
+"Soda, Tonic Water",13.043,9.4,0.0,g,50,Soft drink and energy drink
+"Soft drinks, cola drinks, artificially sweetened",13.047,9.4,0.0,g,50,Soft drink and energy drink
+"Soft drinks, cola, with sugar",13.045,9.4,0.0,g,50,Soft drink and energy drink
+"Soft drinks, with fruit juice, light, artificially sweetened",13.048,9.4,0.0,g,50,Soft drink and energy drink
+"Soft drinks, with fruit juice, with sugar",13.046,9.4,0.0,g,50,Soft drink and energy drink
+Sorghum,05.224,5.2,0.0,g,460g,"Grain, rice and pasta"
+"Soup, cauliflower, powder base, prepared",10.012,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Soup, fish, powder base, powder",10.123,10.11,0.01,g,135,Dinner products
+"Soup, fish, powder base, prepared",10.023,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Soup, fruit, powder base, prepared",10.003,7.3,0.0,g,MI0002,Desserts and ice cream
+"Soup, instant, cauliflower and broccoli, prepared",10.032,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Soup, meat and vegetables, betasoup, home-made",10.156,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Soup, meat, with vegetables and potatoes, industrially made",10.148,3.7,,,10,Poultry or meat dishes
+"Soup, rosehip, powder base, prepared",10.005,7.3,0.0,g,MI0002,Desserts and ice cream
+"Soup, tomato and macaroni, powder base, prepared",10.014,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Soup, tomato, powder base, powder",10.113,10.11,0.0,g,135,Dinner products
+"Soup, tomato, powder base, prepared",10.013,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Soup, with meat and pearled barley, powder base, prepared",10.024,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Soup, with meat, potatoes and vegetables, canned",03.326,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Soup, with shrimps, crab and crawfish",10.206,4.2,0.02,g,MI0002,Fish and shellfishes dishes
+Soy based beverage,13.126,9.5,0.0,g,232,Plant-based beverages
+"Soy based beverage, sweetened, with calcium and vitamins (vit B2, vit B12, vit D)",13.066,9.5,0.0,g,232,Plant-based beverages
+"Soy based beverage, with calcium og vitamins (vit B2, vit B12, vit D)",13.067,9.5,0.0,g,232,Plant-based beverages
+Soy flour,06.087,5.1,0.0,g,460g,Flour
+"Soy flour, low-fat",06.196,5.1,0.0,g,460g,Flour
+Soy sauce,10.126,10.11,0.0,g,50,Dinner products
+"Soy sauce, sweet",10.217,10.11,0.0,g,400k,Dinner products
+"Soya protein, textured",06.737,10.6,0.0,g,136,Vegetarian products and dishes
+Spelt flour,05.495,5.1,0.0,g,231,Flour
+"Spinach soup, home-made",10.168,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Spinach, Norwegian, raw",06.285,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Spinach, baby leaf",06.211,6.2,0.0,g,20,"Vegetables, raw and prepared"
+"Spinach, creamed",06.254,6.6,0.0,g,MI0002,Vegetable products
+"Spinach, frozen",06.065,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Spinach, imported, raw",06.286,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Spinach, raw",06.064,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Spinach, steamed",06.253,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Spirits, 40 vol-% alcohol",13.012,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Spirits, 60 vol-% alcohol",13.011,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Sprat in oil, drained, canned",04.322,4.4,1.54,g,207,Fish products
+"Sprat in tomato sauce, canned",04.321,4.4,1.57,g,207,Fish products
+"Sprat, raw",04.003,4.1.1,1.63,g,609,Fatty fish
+"Spring roll, vegetables, fried, industrially made",10.223,10.6,0.0,g,420k,Vegetarian products and dishes
+"Spring roll, with chicken and vegetables, industrially made",03.515,10.9.1,0.0,g,MI0002,Lunch dishes
+"Spring rolls, fresh, with chicken, noodles and vegetables",03.516,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Spring rolls, fresh, with shrimps, noodles and vegetables",04.397,4.2,0.03,g,MI0002,Fish and shellfishes dishes
+"Spring rolls, fresh, with tofu, noodles and vegetables",10.229,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Squash seeds, pumpkin seeds",05.170,14.1,0.0,g,611a,Seeds
+"Squash, zucchini, raw",06.085,6.2,0.0,g,420h,"Vegetables, raw and prepared"
+"Squid, battered, pre-fried, fried in fat",04.313,4.3,0.19,g,MI0002,Shellfish
+"Squid, battered, pre-fried, frozen",04.208,4.3,0.17,g,MI0002,Shellfish
+"Squid, boiled",04.302,4.3,0.71,g,MI0002,Shellfish
+"Squid, raw",04.262,4.3,0.41,g,460g,Shellfish
+"Steamed salmon with herb sauce, carrots and potatoes, industrially made",09.136,4.2,0.17,g,MI0002,Fish and shellfishes dishes
+"Stew, with beef, potatoes and vegetables",03.288,3.7,0.0,g,MI0002,Poultry or meat dishes
+"Stock, meat, from cube, prepared",12.004,10.11,0.0,g,MI0002,Dinner products
+"Stockfish, dried fish",04.041,4.1.2,0.38,g,321d,Lean fish
+"Strawberries, frozen",06.840,13.1,0.0,g,50,Berries
+"Strawberries, frozen, 100 g sugar/kg berries",06.588,13.3,0.0,g,MI0002,Fruit and berries products
+"Strawberries, frozen, 250 g sugar/kg berries",06.505,13.3,0.0,g,MI0002,Fruit and berries products
+"Strawberries, raw",06.504,13.1,0.0,g,460g,Berries
+Strawberry jam,06.808,13.3,0.0,g,MI0002,Fruit and berries products
+"Strawberry jam, frozen",06.805,13.3,0.0,g,MI0002,Fruit and berries products
+"Strawberry jam, with less sugar",06.806,13.3,0.0,g,MI0002,Fruit and berries products
+"Strawberry jam, without added sugar",06.807,13.3,0.0,g,MI0002,Fruit and berries products
+Strawberry mousse,10.199,7.3,0.0,g,MI0002,Desserts and ice cream
+"Sugar, brown",09.001,7.1,0.0,g,50,Sugar and honey
+"Sugar, white, caster sugar, cube sugar",09.002,7.1,0.0,g,50,Sugar and honey
+Sunflower seeds,05.126,14.1,0.0,g,611a,Seeds
+"Sunflower sprouts, raw",06.271,6.2,0.0,g,20,"Vegetables, raw and prepared"
+Surimi,04.366,4.4,0.08,g,110b,Fish products
+"Sushi, maki, California",04.368,4.2,0.03,g,MI0002,Fish and shellfishes dishes
+"Sushi, maki, avocado, vegetarian",06.786,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Sushi, maki, halibut, Atlantic",04.338,4.2,0.06,g,MI0002,Fish and shellfishes dishes
+"Sushi, maki, mango, vegetar",06.785,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Sushi, maki, salmon",04.337,4.2,0.11,g,MI0002,Fish and shellfishes dishes
+"Sushi, maki, scampi",04.370,4.2,0.02,g,MI0002,Fish and shellfishes dishes
+"Sushi, maki, tempura",04.369,4.2,0.0,g,MI0002,Fish and shellfishes dishes
+"Sushi, maki, tofu, vegetarian",06.787,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Sushi, maki, tuna",04.339,4.2,0.04,g,MI0002,Fish and shellfishes dishes
+"Sushi, nigiri, halibut, Atlantic",04.335,4.2,0.12,g,MI0002,Fish and shellfishes dishes
+"Sushi, nigiri, salmon",04.334,4.2,0.21,g,MI0002,Fish and shellfishes dishes
+"Sushi, nigiri, scallops",04.372,4.2,0.01,g,MI0002,Fish and shellfishes dishes
+"Sushi, nigiri, scampi",04.371,4.2,0.05,g,MI0002,Fish and shellfishes dishes
+"Sushi, nigiri, tuna",04.336,4.2,0.08,g,MI0002,Fish and shellfishes dishes
+"Svin, bottom round, raw",03.491,3.4,0.01,g,332,Pork
+"Swede, Norwegian, raw",06.041,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Swede, carrot, celeriac root, onion, parsnip, frozen",06.217,6.6,0.0,g,MI0002,Vegetable products
+"Swede, cooked",06.721,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Swedish almond cake, macaroon tea cake",05.203,5.10,0.0,g,400k,Cakes and sweet bakery
+"Sweet bun flour mix, gluten-free, organic, powder, Det Glutenfrie Verksted",05.536,5.1,0.0,g,117c,Flour
+"Sweet bun, gluten-free, low-fat milk",05.266,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Sweet bun, industrially made",05.217,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Sweet bun, low-fat milk",05.202,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Sweet bun, skimmed milk",05.286,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Sweet bun, whole milk",05.095,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Sweet bun, with chocolate",05.432,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Sweet bun, with custard, icing and desiccated coconut",05.109,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Sweet bun, with raisins, industrially made",05.207,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Sweet corn, Norwegian, raw",06.044,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Sweet corn, canned",06.736,6.6,0.0,g,460g,Vegetable products
+"Sweet corn, frozen",06.745,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Sweet pepper and chick pea puree, industrially made",06.692,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Sweet pepper, green, cooked",06.716,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Sweet pepper, green, raw",06.047,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Sweet pepper, green, roasted",06.276,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Sweet pepper, paprika, powder",06.164,16,0.0,g,460g,Herbs and spices
+"Sweet pepper, red, cooked",06.717,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Sweet pepper, red, raw",06.048,6.2,0.0,g,460f,"Vegetables, raw and prepared"
+"Sweet pepper, red, roasted",06.275,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Sweet pepper, yellow/orange, cooked",06.278,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Sweet pepper, yellow/orange, raw",06.088,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Sweet pepper, yellow/orange, roasted",06.277,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Sweet potato soup, home-made",10.169,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Sweet potato, cooked without salt",06.101,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Sweet potato, raw",06.136,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Sweet potato, roasted",06.229,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Sweets mix, chocolate included",09.105,7.2,0.02,g,207,Chocolate and sweets
+"Sweets mix, salt liquorice",09.107,7.2,0.0,g,50,Chocolate and sweets
+"Sweets mix, without chocolate",09.106,7.2,0.0,g,50,Chocolate and sweets
+"Swiss roll, filling made of margarine",05.105,5.10,0.04,g,MI0002,Cakes and sweet bakery
+"Swiss roll, filling made of margarine jelly, industrially made",05.323,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Swiss roll, jam filling",05.104,5.10,0.03,g,MI0002,Cakes and sweet bakery
+"Swiss roll, with chocolate filling",05.510,5.10,0.04,g,MI0002,Cakes and sweet bakery
+Syrup,09.015,7.1,0.0,g,50,Sugar and honey
+Taco sauce,06.149,10.11,0.0,g,220a,Dinner products
+Taco shells,05.382,5.7,0.0,g,220a,Crisp bread and flatbread
+"Taco soup, home-made",10.170,10.9.4,0.0,g,MI0002,Soups and casseroles
+"Taco spice mix, home-made",12.118,16,0.0,g,MI0002,Herbs and spices
+"Taco spice mix, industrially made",10.134,10.11,0.0,g,60a,Dinner products
+"Taco with shell, chicken, vegetables",09.142,10.9.2,0.0,g,MI0002,Pizza and taco
+"Taco with shell, minced meat (max 6% fat), vegetables",09.170,10.9.2,0.0,g,MI0002,Pizza and taco
+"Taco with shell, minced meat, vegetables",09.141,10.9.2,0.0,g,MI0002,Pizza and taco
+"Taco with shell, plant-based minced, vegetables",09.172,10.9.2,0.0,g,MI0002,Pizza and taco
+"Taco with shell, salmon, vegetables",09.143,10.9.2,0.16,g,MI0002,Pizza and taco
+"Taco with tortilla, chicken, vegetables",09.139,10.9.2,0.0,g,MI0002,Pizza and taco
+"Taco with tortilla, minced meat (max 6 % fat), vegetables",09.171,10.9.2,0.0,g,MI0002,Pizza and taco
+"Taco with tortilla, minced meat, vegetables",09.138,10.9.2,0.0,g,MI0002,Pizza and taco
+"Taco with tortilla, plant-based minced, vegetables",09.173,10.9.2,0.0,g,MI0002,Pizza and taco
+"Taco with tortilla, salmon, vegetables",09.140,10.9.2,0.15,g,MI0002,Pizza and taco
+"Tamarinds, raw",06.632,13.2,0.0,g,460g,Fruit
+"Tarragon, dried",06.183,16,0.0,g,460g,Herbs and spices
+"Tart shell, no filling",05.115,5.10,0.01,g,MI0002,Cakes and sweet bakery
+"Tea, black, infusion",13.010,9.1,0.0,g,50,Coffe and tea
+"Tea, green, infusion",13.042,9.1,0.0,g,50,Coffe and tea
+Teff flour,05.482,5.1,0.0,g,20,Flour
+Tempeh soy bean product,06.685,10.6,0.0,g,20,Vegetarian products and dishes
+Teriyaki sauce,10.179,10.11,0.0,g,400j,Dinner products
+"Thyme, dried",06.172,16,0.0,g,460g,Herbs and spices
+"Thyme, raw",06.171,16,0.0,g,460g,Herbs and spices
+Tofu,06.704,10.6,0.0,g,430c,Vegetarian products and dishes
+"Tofu, silky",06.865,10.6,0.0,g,430c,Vegetarian products and dishes
+"Tofu, smoked",06.866,10.6,0.03,g,430c,Vegetarian products and dishes
+Tomato juice,06.071,9.2,0.0,g,50,Juice and smoothies
+Tomato ketchup,06.079,6.6,0.0,g,460g,Vegetable products
+Tomato purée,06.080,6.6,0.0,g,460g,Vegetable products
+Tomato salsa,06.202,6.6,0.0,g,MI0002,Vegetable products
+"Tomato, Norwegian, raw",06.069,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Tomato, canned",06.070,6.6,0.0,g,460g,Vegetable products
+"Tomato, chopped, tetrapack",06.081,6.6,0.0,g,460g,Vegetable products
+"Tomato, cooked",06.724,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+"Tomato, imported, raw",06.753,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Tomato, small, cherry, imported, raw",06.752,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Tomato, unspecified, raw",06.754,6.2,0.0,g,50,"Vegetables, raw and prepared"
+"Tomatoes, sun-dried",06.102,6.6,0.0,g,460g,Vegetable products
+"Tomatoes, sun-dried, in oil, drained",06.103,6.6,0.0,g,400m,Vegetable products
+Tortilla chips,12.017,10.5,0.0,g,221a,Snacks
+"Tortilla, corn flour, soft",05.248,5.6.1,0.0,g,MI0002,Other bread products
+"Tortilla, wheat flour",05.381,5.6.1,0.0,g,220a,Other bread products
+Tropical juice,06.627,9.2,0.0,g,50,Juice and smoothies
+"Trout fillet, smoked",04.260,4.1.1,0.77,g,MI0002,Fatty fish
+"Trout, farmed, raw",04.256,4.1.1,1.19,g,216,Fatty fish
+"Trout, farmed, simmered",04.257,4.1.1,0.99,g,MI0002,Fatty fish
+"Trout, farmed, slices, rolled in flour, fried in fat",04.267,4.1.1,1.03,g,MI0002,Fatty fish
+"Trout, ocean, raw",04.047,4.1.1,0.3,g,216,Fatty fish
+"Trout, sea, rolled in flour, fried in fat",04.259,4.1.1,0.26,g,MI0002,Fatty fish
+"Trout, sea, simmered",04.317,4.1.1,0.35,g,MI0002,Fatty fish
+"Tuna in water, drained, canned",04.108,4.4,0.18,g,609,Fish products
+"Tuna, in jelly, canned",04.106,4.4,0.06,g,609,Fish products
+"Tuna, in oil, canned",04.285,4.4,0.32,g,609,Fish products
+"Tuna, in oil, drained, canned",04.107,4.4,0.33,g,207,Fish products
+"Tuna, raw",04.043,4.1.2,0.25,g,609,Lean fish
+"Turbot, raw",04.112,4.1.2,0.22,g,321d,Lean fish
+"Turkey breast, without skin, roasted",03.241,3.1,0.02,g,MI0002,Poultry
+"Turkey, breast, without skin, raw",03.204,3.1,0.02,g,207,Poultry
+"Turkey, meat and skin, raw",03.004,3.1,0.08,g,207,Poultry
+"Turkey, with skin, roasted",03.005,3.1,0.07,g,MI0002,Poultry
+"Turkey, without skin, raw",03.239,3.1,0.02,g,207,Poultry
+"Turkey, without skin, roasted",03.240,3.1,0.02,g,MI0002,Poultry
+"Turmeric, ground",06.153,16,0.0,g,460g,Herbs and spices
+"Turnip, Norwegian, raw",06.046,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+Tzatziki,06.673,6.6,0.0,g,MI0002,Vegetable products
+"Vanilla sauce, industrially made",01.023,7.3,0.0,g,114a,Desserts and ice cream
+Vanilla sugar,09.108,7.1,0.0,g,50,Sugar and honey
+"Veal, chops, raw",03.039,3.3,0.0,g,319,Beef and veal
+"Veal, for roast, raw",03.037,3.3,0.0,g,319,Beef and veal
+"Veal, roll",03.155,3.5,0.0,g,MI0002,Meat products
+"Vegetable spread, industrially made",06.789,10.6,0.0,g,117a,Vegetarian products and dishes
+"Vegetable spread/pâté, industrially made",06.713,10.6,0.0,g,400g,Vegetarian products and dishes
+"Vegetable stew, with tomato, ratatouille",06.706,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Vegetarian burger, home-made",06.784,10.6,0.01,g,MI0002,Vegetarian products and dishes
+"Vegetarian lasagna, home-made",06.782,10.6,0.0,g,MI0002,Vegetarian products and dishes
+"Vinegar, 7 %",12.027,10.7,0.0,g,50,Miscellaneous ingredients
+"Vinegar, apple cider",10.178,10.7,0.0,g,20,Miscellaneous ingredients
+"Vinegar, red wine",12.119,10.7,0.0,g,20,Miscellaneous ingredients
+"Vitamin Bears, Collett",12.115,10.10,0.0,g,20,Food supplements
+"Vitamineral, Vitaplex",12.114,10.10,0.0,g,20,Food supplements
+"Waffle flour mix, gluten-free, Toro",05.481,5.1,0.01,g,141,Flour
+"Waffles, coarse",05.387,5.9,0.03,g,MI0002,Pancakes and waffles
+"Waffles, gluten free, prepared from powder, Toro",05.350,5.9,0.01,g,MI0002,Pancakes and waffles
+"Waffles, prepared from powder",05.349,5.9,0.01,g,MI0002,Pancakes and waffles
+"Waffles, with egg",05.247,5.9,0.02,g,MI0002,Pancakes and waffles
+"Waffles, with egg, no fat added",05.288,5.9,0.01,g,MI0002,Pancakes and waffles
+"Waffles, with sour cream, without eggs",05.086,5.9,0.0,g,MI0002,Pancakes and waffles
+Wakame salad,06.238,6.6,0.0,g,MI0002,Vegetable products
+"Waldorf salad, with apples, celery, mayonnaise and whipped cream",08.202,8.3,0.0,g,MI0002,Mayonnaise and mayonnaise salads
+Walnuts,06.560,14.2,0.0,g,611a,Nuts
+"Wasabi, root, raw",06.192,6.2,0.0,g,30,"Vegetables, raw and prepared"
+"Water chestnut, raw",06.147,6.2,0.0,g,460f,"Vegetables, raw and prepared"
+"Water chestnuts, chinese, canned, drained",06.135,6.6,0.0,g,460g,Vegetable products
+"Water, tap",13.033,9.6,0.0,g,50,Water and mineral water
+"Water-cress, raw",06.174,6.2,0.0,g,400f,"Vegetables, raw and prepared"
+"Whale, raw",03.033,3.10,0.03,g,460f,Game meat
+Wheat bran,05.548,5.1,0.0,g,231,Flour
+"Wheat bran, roasted, sweetened, All-Bran Plus",05.241,5.3,0.0,g,400g,Breakfast cereals
+"Wheat flakes, roasted, All-Bran Regular",05.156,5.3,0.0,g,60a,Breakfast cereals
+"Wheat flour, 80 % extraction",05.010,5.1,0.0,g,231,Flour
+"Wheat flour, organic",05.496,5.1,0.0,g,231,Flour
+"Wheat flour, wholemeal",05.006,5.1,0.0,g,231,Flour
+"Wheat, grain",05.009,5.2,0.0,g,420c,"Grain, rice and pasta"
+Wheatgerm,05.007,5.1,0.0,g,460g,Flour
+"White sauce, home-made",10.198,10.11,0.0,g,MI0002,Dinner products
+Whitecurrant jam,06.838,13.3,0.0,g,MI0002,Fruit and berries products
+"Whitecurrants, raw",06.849,13.1,0.0,g,20,Berries
+"Whiting, raw",04.009,4.1.2,0.18,g,321d,Lean fish
+"Wienerschnitzel, raw",03.252,3.5,0.0,g,MI0002,Meat products
+"Wild boar, meat, raw",03.365,3.10,0.0,g,400f,Game meat
+"Wine, dessert, extra sweet, sparkling",13.057,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, fortified, dry, 15 vol-% alcohol",13.018,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, fortified, sweet, 17 vol-% alcohol",13.015,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, non-alcoholic",13.007,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, red, 12 vol-% alcohol",13.017,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, red, dry",13.059,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, red, unspecified",13.060,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, reduced alcohol",13.030,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, white, dry, 10 vol-% alcohol",13.031,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, white, dry, 12 vol-% alcohol",13.032,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, white, half sweet/sweet, including sparkling",13.056,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wine, white, rosé, sparkling, unspecified",13.058,9.3,0.0,g,50,"Beer, wine, spirit etc"
+"Wok mix, Chinese style",06.675,6.6,0.0,g,MI0002,Vegetable products
+"Wok mix, Indian style",06.674,6.6,0.0,g,MI0002,Vegetable products
+"Wok mix, Thai style",06.676,6.6,0.0,g,MI0002,Vegetable products
+"Wok mix, classic ",06.106,6.2,0.0,g,MI0002,"Vegetables, raw and prepared"
+Wonton pastry,10.139,10.7,0.0,g,460g,Miscellaneous ingredients
+Worcestershire sauce,10.218,10.11,0.0,g,20,Dinner products
+"Wraps, gluten-free, Bfree",05.470,5.6.1,0.0,g,141,Other bread products
+"Wraps, gluten-free, Schär",05.471,5.6.1,0.0,g,141,Other bread products
+"Wraps, with cottage cheese, home-made",10.225,10.9.1,0.04,g,MI0002,Lunch dishes
+"Yam, raw",06.193,6.2,0.0,g,460g,"Vegetables, raw and prepared"
+"Yardlong beans, raw",06.187,12,0.0,g,20,Legumes
+"Yeast ring, sweet, with dried fruit",05.100,5.10,0.0,g,MI0002,Cakes and sweet bakery
+"Yoghurt, blueberries, 0 % fat, Yoplait",01.299,1.2,0.0,g,109c,Yoghurt
+"Yoghurt, plain, 10 % fat, Greek/Turkish",01.335,1.2,0.0,g,20,Yoghurt
+"Yoghurt, plain, 2 % fat, Greek/Turkish",01.334,1.2,0.0,g,20,Yoghurt
+"Yoghurt, strawberry, Q-meieriene",01.304,1.2,0.0,g,70,Yoghurt
+"Yoghurt, vanilla",01.305,1.2,0.0,g,70,Yoghurt
+"Yoghurt, vanilla, 0 % fat, Yoplait",01.298,1.2,0.0,g,109c,Yoghurt
+"Yoghurt, vanilla, lactose free",01.279,1.2,0.0,g,114a,Yoghurt
+"Yoghurt, whole milk, plain",01.011,1.2,0.0,g,114a,Yoghurt
+"Yoghurt, whole milk, plain, lactose free",01.275,1.2,0.0,g,114a,Yoghurt
+"Yoghurt, whole milk, plain, organic",01.290,1.2,0.0,g,114a,Yoghurt
+"Yoghurt, with coulis and granola, from cafe/bakery",01.311,1.2,0.0,g,MI0002,Yoghurt
+"Yoghurt, with coulis, from cafe/bakery",01.312,1.2,0.0,g,MI0002,Yoghurt
+"Yoghurt, with fruit puree and muesli, from cafe/bakery",01.313,1.2,0.0,g,MI0002,Yoghurt
+"Yoghurt, with muesli and berries",01.222,1.2,0.0,g,114a,Yoghurt
+"Yoghurt, with strawberry, Tine",01.096,1.2,0.0,g,114a,Yoghurt
